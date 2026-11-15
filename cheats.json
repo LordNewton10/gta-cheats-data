@@ -1,0 +1,1389 @@
+{
+  "version": 1,
+  "updated": "2026-11-15",
+  "platforms": {
+    "ps": "PlayStation",
+    "xbox": "Xbox",
+    "pc": "PC",
+    "phone": "Phone",
+    "psp": "PSP",
+    "ds": "Nintendo DS",
+    "switch": "Switch",
+    "mobile": "Mobile"
+  },
+  "games": [
+    {
+      "id": "gta6",
+      "title": "Grand Theft Auto VI",
+      "short": "GTA 6",
+      "year": 2026,
+      "status": "coming_soon",
+      "note": "No GTA 6 cheats are known yet. Verified codes will appear here as soon as they are found.",
+      "cheats": []
+    },
+    {
+      "id": "gta5",
+      "title": "Grand Theft Auto V",
+      "short": "GTA 5",
+      "year": 2013,
+      "note": "Console codes use the PlayStation or Xbox buttons shown. On PC, open the console with the ~ key and type the word. Phone numbers are dialled on the in-game phone. Cheats turn off trophies and achievements for that session.",
+      "cheats": [
+        {
+          "name": "Invincibility (5 minutes)",
+          "category": "Player",
+          "codes": {
+            "ps": "Right, X, Right, Left, Right, R1, Right, Left, X, Triangle",
+            "xbox": "Right, A, Right, Left, Right, RB, Right, Left, A, Y",
+            "pc": "PAINKILLER",
+            "phone": "1-999-724-654-5537"
+          }
+        },
+        {
+          "name": "Max health and armor",
+          "category": "Player",
+          "codes": {
+            "ps": "Circle, L1, Triangle, R2, X, Square, Circle, Right, Square, L1, L1, L1",
+            "xbox": "B, LB, Y, RT, A, X, B, Right, X, LB, LB, LB",
+            "pc": "TURTLE",
+            "phone": "1-999-887-853"
+          }
+        },
+        {
+          "name": "Recharge special ability",
+          "category": "Player",
+          "codes": {
+            "ps": "X, X, Square, R1, L1, X, Right, Left, X",
+            "xbox": "A, A, X, RB, LB, A, Right, Left, A",
+            "pc": "POWERUP",
+            "phone": "1-999-769-3787"
+          }
+        },
+        {
+          "name": "Fast run",
+          "category": "Player",
+          "codes": {
+            "ps": "Triangle, Left, Right, Right, L2, L1, Square",
+            "xbox": "Y, Left, Right, Right, LT, LB, X",
+            "pc": "CATCHME",
+            "phone": "1-999-228-2463"
+          }
+        },
+        {
+          "name": "Fast swim",
+          "category": "Player",
+          "codes": {
+            "ps": "Left, Left, L1, Right, Right, R2, Left, L2, Right",
+            "xbox": "Left, Left, LB, Right, Right, RT, Left, LT, Right",
+            "pc": "GOTGILLS",
+            "phone": "1-999-468-44557"
+          }
+        },
+        {
+          "name": "Super jump",
+          "category": "Player",
+          "codes": {
+            "ps": "Left, Left, Triangle, Triangle, Right, Right, Left, Right, Square, R1, R2",
+            "xbox": "Left, Left, Y, Y, Right, Right, Left, Right, X, RB, RT",
+            "pc": "HOPTOIT",
+            "phone": "1-999-467-8648"
+          }
+        },
+        {
+          "name": "Drunk mode",
+          "category": "Player",
+          "codes": {
+            "ps": "Triangle, Right, Right, Left, Right, Square, Circle, Left",
+            "xbox": "Y, Right, Right, Left, Right, X, B, Left",
+            "pc": "LIQUOR",
+            "phone": "1-999-547-867"
+          }
+        },
+        {
+          "name": "Skyfall",
+          "category": "Player",
+          "codes": {
+            "ps": "L1, L2, R1, R2, Left, Right, Left, Right, L1, L2, R1, R2, Left, Right, Left, Right",
+            "xbox": "LB, LT, RB, RT, Left, Right, Left, Right, LB, LT, RB, RT, Left, Right, Left, Right",
+            "pc": "SKYFALL",
+            "phone": "1-999-759-3255"
+          }
+        },
+        {
+          "name": "Give parachute",
+          "category": "Player",
+          "codes": {
+            "ps": "Left, Right, L1, L2, R1, R2, R2, Left, Left, Right, L1",
+            "xbox": "Left, Right, LB, LT, RB, RT, RT, Left, Left, Right, LB",
+            "pc": "SKYDIVE",
+            "phone": "1-999-759-3483"
+          }
+        },
+        {
+          "name": "Give weapons and ammo",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Triangle, R2, Left, L1, X, Right, Triangle, Down, Square, L1, L1, L1",
+            "xbox": "Y, RT, Left, LB, A, Right, Y, Down, X, LB, LB, LB",
+            "pc": "TOOLUP",
+            "phone": "1-999-866-587"
+          }
+        },
+        {
+          "name": "Explosive ammo",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Right, Square, X, Left, R1, R2, Left, Right, Right, L1, L1, L1",
+            "xbox": "Right, X, A, Left, RB, RT, Left, Right, Right, LB, LB, LB",
+            "pc": "HIGHEX",
+            "phone": "1-999-444-439"
+          }
+        },
+        {
+          "name": "Flaming bullets",
+          "category": "Weapons",
+          "codes": {
+            "ps": "L1, R1, Square, R1, Left, R2, R1, Left, Square, Right, L1, L1",
+            "xbox": "LB, RB, X, RB, Left, RT, RB, Left, X, Right, LB, LB",
+            "pc": "INCENDIARY",
+            "phone": "1-999-462-363-4279"
+          }
+        },
+        {
+          "name": "Explosive melee attacks",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Right, Left, X, Triangle, R1, Circle, Circle, Circle, L2",
+            "xbox": "Right, Left, A, Y, RB, B, B, B, LT",
+            "pc": "HOTHANDS",
+            "phone": "1-999-4684-2637"
+          }
+        },
+        {
+          "name": "Slow-motion aim",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Square, L2, R1, Triangle, Left, Square, L2, Right, X",
+            "xbox": "X, LT, RB, Y, Left, X, LT, Right, A",
+            "pc": "DEADEYE",
+            "phone": "1-999-332-3393"
+          },
+          "note": "Enter up to 4 times for more slow motion; a 5th time turns it off."
+        },
+        {
+          "name": "Raise wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "R1, R1, Circle, R2, Right, Left, Right, Left, Right, Left",
+            "xbox": "RB, RB, B, RT, Right, Left, Right, Left, Right, Left",
+            "pc": "FUGITIVE",
+            "phone": "1-999-3844-8483"
+          }
+        },
+        {
+          "name": "Lower wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+            "xbox": "RB, RB, B, RT, Left, Right, Left, Right, Left, Right",
+            "pc": "LAWYERUP",
+            "phone": "1-999-5299-3787"
+          }
+        },
+        {
+          "name": "Spawn Buzzard attack helicopter",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+            "xbox": "B, B, LB, B, B, B, LB, LT, RB, Y, B, Y",
+            "pc": "BUZZOFF",
+            "phone": "1-999-289-9633"
+          }
+        },
+        {
+          "name": "Spawn Comet",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "R1, Circle, R2, Right, L1, L2, X, X, Square, R1",
+            "xbox": "RB, B, RT, Right, LB, LT, A, A, X, RB",
+            "pc": "COMET",
+            "phone": "1-999-266-38"
+          }
+        },
+        {
+          "name": "Spawn Sanchez",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Circle, X, L1, Circle, Circle, L1, Circle, R1, R2, L2, L1, L1",
+            "xbox": "B, A, LB, B, B, LB, B, RB, RT, LT, LB, LB",
+            "pc": "OFFROAD",
+            "phone": "1-999-633-7623"
+          }
+        },
+        {
+          "name": "Spawn Rapid GT",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "R2, L1, Circle, Right, L1, R1, Right, Left, Circle, R2",
+            "xbox": "RT, LB, B, Right, LB, RB, Right, Left, B, RT",
+            "pc": "RAPIDGT",
+            "phone": "1-999-727-4348"
+          }
+        },
+        {
+          "name": "Spawn PCJ-600",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "R1, Right, Left, Right, R2, Left, Right, Square, Right, L2, L1, L1",
+            "xbox": "RB, Right, Left, Right, RT, Left, Right, X, Right, LT, LB, LB",
+            "pc": "ROCKET",
+            "phone": "1-999-762-538"
+          }
+        },
+        {
+          "name": "Spawn BMX",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Left, Left, Right, Right, Left, Right, Square, Circle, Triangle, R1, R2",
+            "xbox": "Left, Left, Right, Right, Left, Right, X, B, Y, RB, RT",
+            "pc": "BANDIT",
+            "phone": "1-999-226-348"
+          }
+        },
+        {
+          "name": "Spawn Caddy",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Circle, L1, Left, R1, L2, X, R1, L1, Circle, X",
+            "xbox": "B, LB, Left, RB, LT, A, RB, LB, B, A",
+            "pc": "HOLEIN1",
+            "phone": "1-999-4653-461"
+          }
+        },
+        {
+          "name": "Spawn Duster",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Right, Left, R1, R1, R1, Left, Triangle, Triangle, X, Circle, L1, L1",
+            "xbox": "Right, Left, RB, RB, RB, Left, Y, Y, A, B, LB, LB",
+            "pc": "FLYSPRAY",
+            "phone": "1-999-359-77729"
+          }
+        },
+        {
+          "name": "Spawn Stunt Plane",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Circle, Right, L1, L2, Left, R1, L1, L1, Left, Left, X, Triangle",
+            "xbox": "B, Right, LB, LT, Left, RB, LB, LB, Left, Left, A, Y",
+            "pc": "BARNSTORM",
+            "phone": "1-999-2276-78676"
+          }
+        },
+        {
+          "name": "Spawn Limo",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "R2, Right, L2, Left, Left, R1, L1, Circle, Right",
+            "xbox": "RT, Right, LT, Left, Left, RB, LB, B, Right",
+            "pc": "VINEWOOD",
+            "phone": "1-999-846-39663"
+          }
+        },
+        {
+          "name": "Spawn Trashmaster",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Circle, R1, Circle, R1, Left, Left, R1, L1, Circle, Right",
+            "xbox": "B, RB, B, RB, Left, Left, RB, LB, B, Right",
+            "pc": "TRASHED",
+            "phone": "1-999-872-7433"
+          }
+        },
+        {
+          "name": "Slippery cars",
+          "category": "World",
+          "codes": {
+            "ps": "Triangle, R1, R1, Left, R1, L1, R2, L1",
+            "xbox": "Y, RB, RB, Left, RB, LB, RT, LB",
+            "pc": "SNOWDAY",
+            "phone": "1-999-766-9329"
+          }
+        },
+        {
+          "name": "Moon gravity",
+          "category": "World",
+          "codes": {
+            "ps": "Left, Left, L1, R1, L1, Right, Left, L1, Left",
+            "xbox": "Left, Left, LB, RB, LB, Right, Left, LB, Left",
+            "pc": "FLOATER",
+            "phone": "1-999-356-2837"
+          }
+        },
+        {
+          "name": "Change weather",
+          "category": "World",
+          "codes": {
+            "ps": "R2, X, L1, L1, L2, L2, L2, Square",
+            "xbox": "RT, A, LB, LB, LT, LT, LT, X",
+            "pc": "MAKEITRAIN",
+            "phone": "1-999-625-348-7246"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gta4",
+      "title": "Grand Theft Auto IV",
+      "short": "GTA 4",
+      "year": 2008,
+      "note": "Dial these numbers on the in-game phone (Up on the D-pad, or the phone key on PC). They work on every platform.",
+      "cheats": [
+        {
+          "name": "Health, armor and ammo",
+          "category": "Player",
+          "codes": {
+            "phone": "482-555-0100"
+          }
+        },
+        {
+          "name": "Armor",
+          "category": "Player",
+          "codes": {
+            "phone": "362-555-0100"
+          }
+        },
+        {
+          "name": "Weapon set 1",
+          "category": "Weapons",
+          "codes": {
+            "phone": "486-555-0150"
+          }
+        },
+        {
+          "name": "Weapon set 2",
+          "category": "Weapons",
+          "codes": {
+            "phone": "486-555-0100"
+          }
+        },
+        {
+          "name": "Remove wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "phone": "267-555-0150"
+          }
+        },
+        {
+          "name": "Raise wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "phone": "267-555-0100"
+          }
+        },
+        {
+          "name": "Spawn Annihilator helicopter",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "359-555-0100"
+          }
+        },
+        {
+          "name": "Spawn Jetmax boat",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "938-555-0100"
+          }
+        },
+        {
+          "name": "Spawn Sanchez",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "625-555-0150"
+          }
+        },
+        {
+          "name": "Spawn NRG 900",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "625-555-0100"
+          }
+        },
+        {
+          "name": "Spawn Cognoscenti",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "227-555-0142"
+          }
+        },
+        {
+          "name": "Spawn Comet",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "227-555-0175"
+          }
+        },
+        {
+          "name": "Spawn Turismo",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "227-555-0147"
+          }
+        },
+        {
+          "name": "Spawn Super GT",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "227-555-0168"
+          }
+        },
+        {
+          "name": "Spawn FIB Buford",
+          "category": "Vehicles",
+          "codes": {
+            "phone": "227-555-0100"
+          }
+        },
+        {
+          "name": "Change weather",
+          "category": "World",
+          "codes": {
+            "phone": "468-555-0100"
+          }
+        },
+        {
+          "name": "Song information",
+          "category": "World",
+          "codes": {
+            "phone": "948-555-0100"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gta4_tlad",
+      "title": "GTA IV: The Lost and Damned",
+      "short": "The Lost and Damned",
+      "year": 2009,
+      "status": "coming_soon",
+      "note": "The GTA IV phone cheats work here too. Episode-only codes are being added.",
+      "cheats": []
+    },
+    {
+      "id": "gta4_tbogt",
+      "title": "GTA IV: The Ballad of Gay Tony",
+      "short": "The Ballad of Gay Tony",
+      "year": 2009,
+      "status": "coming_soon",
+      "note": "The GTA IV phone cheats work here too. Episode-only codes are being added.",
+      "cheats": []
+    },
+    {
+      "id": "gta_sa",
+      "title": "Grand Theft Auto: San Andreas",
+      "short": "San Andreas",
+      "year": 2004,
+      "note": "On PC, type the code during play (no box appears). PlayStation 2 combos are entered during play. The Definitive Edition uses a cheat menu instead of typing.",
+      "cheats": [
+        {
+          "name": "Health, armor and $250,000",
+          "category": "Player",
+          "codes": {
+            "ps": "R1, R2, L1, X, Left, Down, Right, Up, Left, Down, Right, Up",
+            "pc": "HESOYAM"
+          }
+        },
+        {
+          "name": "Infinite health",
+          "category": "Player",
+          "codes": {
+            "pc": "BAGUVIX"
+          }
+        },
+        {
+          "name": "Infinite ammo, no reload",
+          "category": "Weapons",
+          "codes": {
+            "pc": "FULLCLIP"
+          }
+        },
+        {
+          "name": "Weapon set 1",
+          "category": "Weapons",
+          "codes": {
+            "ps": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Right, Up",
+            "pc": "LXGIWYL"
+          }
+        },
+        {
+          "name": "Weapon set 2",
+          "category": "Weapons",
+          "codes": {
+            "ps": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Down, Left",
+            "pc": "KJKSZPJ"
+          }
+        },
+        {
+          "name": "Weapon set 3",
+          "category": "Weapons",
+          "codes": {
+            "ps": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Down, Down",
+            "pc": "UZUMYMW"
+          }
+        },
+        {
+          "name": "Hitman level for all weapons",
+          "category": "Weapons",
+          "codes": {
+            "pc": "NCSGDAG"
+          }
+        },
+        {
+          "name": "Never wanted",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "Circle, Right, Circle, Right, Left, Square, X, Up",
+            "pc": "AEZAKMI"
+          }
+        },
+        {
+          "name": "Clear wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "R1, R1, Circle, R2, Up, Down, Up, Down, Up, Down",
+            "pc": "ASNAEB"
+          }
+        },
+        {
+          "name": "Raise wanted level by two stars",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+            "pc": "OSRBLHH"
+          }
+        },
+        {
+          "name": "Jetpack",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "L1, L2, R1, R2, Up, Down, Left, Right, L1, L2, R1, R2, Up, Down, Left, Right",
+            "pc": "YECGAA"
+          }
+        },
+        {
+          "name": "Parachute",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Left, Right, L1, L2, R1, R2, R2, Up, Down, Right, L1",
+            "pc": "AIYPWZQP"
+          }
+        },
+        {
+          "name": "Spawn Rhino tank",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+            "pc": "AIWPRTON"
+          }
+        },
+        {
+          "name": "Spawn Hydra jet",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "JUMPJET"
+          }
+        },
+        {
+          "name": "Spawn Hunter helicopter",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "OHDUDE"
+          }
+        },
+        {
+          "name": "Spawn Monster truck",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "MONSTERMASH"
+          }
+        },
+        {
+          "name": "Spawn Quad bike",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "FOURWHEELFUN"
+          }
+        },
+        {
+          "name": "Spawn Dozer",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "ITSALLBULL"
+          }
+        },
+        {
+          "name": "Spawn Stunt plane",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "FLYINGTOSTUNT"
+          }
+        },
+        {
+          "name": "Spawn Stretch limo",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "CELEBRITYSTATUS"
+          }
+        },
+        {
+          "name": "Spawn Trashmaster",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "TRUEGRIME"
+          }
+        },
+        {
+          "name": "Spawn Bloodring Banger",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "OLDSPEEDDEMON"
+          }
+        },
+        {
+          "name": "Cars fly",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "RIPAZHA"
+          }
+        },
+        {
+          "name": "Boats fly",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "AFSNMSMW"
+          }
+        },
+        {
+          "name": "Perfect handling",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "STICKLIKEGLUE"
+          }
+        },
+        {
+          "name": "All cars have nitro",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "SPEEDFREAK"
+          }
+        },
+        {
+          "name": "Blow up all cars",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "R2, L2, R1, L1, L2, R2, Square, Triangle, Circle, Triangle, L2, L1",
+            "pc": "CPKTNWT"
+          }
+        },
+        {
+          "name": "Max muscle",
+          "category": "Player",
+          "codes": {
+            "pc": "BUFFMEUP"
+          }
+        },
+        {
+          "name": "Skinny",
+          "category": "Player",
+          "codes": {
+            "pc": "KVGYZQK"
+          }
+        },
+        {
+          "name": "Max fat",
+          "category": "Player",
+          "codes": {
+            "pc": "BTCDBCB"
+          }
+        },
+        {
+          "name": "Never hungry",
+          "category": "Player",
+          "codes": {
+            "pc": "AEDUWNV"
+          }
+        },
+        {
+          "name": "Infinite oxygen",
+          "category": "Player",
+          "codes": {
+            "pc": "CVWKXAM"
+          }
+        },
+        {
+          "name": "Mega jump",
+          "category": "Player",
+          "codes": {
+            "pc": "KANGAROO"
+          }
+        },
+        {
+          "name": "Max respect",
+          "category": "Player",
+          "codes": {
+            "pc": "WORSHIPME"
+          }
+        },
+        {
+          "name": "Max sex appeal",
+          "category": "Player",
+          "codes": {
+            "pc": "HELLOLADIES"
+          }
+        },
+        {
+          "name": "Recruit anyone (pistols)",
+          "category": "Player",
+          "codes": {
+            "pc": "SJMAHPE"
+          }
+        },
+        {
+          "name": "Recruit anyone (rockets)",
+          "category": "Player",
+          "codes": {
+            "pc": "ROCKETMAYHEM"
+          }
+        },
+        {
+          "name": "Pedestrians riot",
+          "category": "World",
+          "codes": {
+            "pc": "STATEOFEMERGENCY"
+          }
+        },
+        {
+          "name": "Pedestrians attack you with weapons",
+          "category": "World",
+          "codes": {
+            "pc": "BGLUAWML"
+          }
+        },
+        {
+          "name": "Beach party theme",
+          "category": "World",
+          "codes": {
+            "pc": "LIFESABEACH"
+          }
+        },
+        {
+          "name": "Ninja theme",
+          "category": "World",
+          "codes": {
+            "pc": "NINJATOWN"
+          }
+        },
+        {
+          "name": "Elvis is everywhere",
+          "category": "World",
+          "codes": {
+            "pc": "BLUESUEDESHOES"
+          }
+        },
+        {
+          "name": "Sunny weather",
+          "category": "World",
+          "codes": {
+            "pc": "AFZLLQLL"
+          }
+        },
+        {
+          "name": "Very sunny weather",
+          "category": "World",
+          "codes": {
+            "pc": "ICIKPYH"
+          }
+        },
+        {
+          "name": "Overcast weather",
+          "category": "World",
+          "codes": {
+            "pc": "ALNSFMZO"
+          }
+        },
+        {
+          "name": "Rainy weather",
+          "category": "World",
+          "codes": {
+            "pc": "AUIFRVQS"
+          }
+        },
+        {
+          "name": "Foggy weather",
+          "category": "World",
+          "codes": {
+            "pc": "CFVFGMJ"
+          }
+        },
+        {
+          "name": "Sandstorm",
+          "category": "World",
+          "codes": {
+            "pc": "CWJXUOC"
+          }
+        },
+        {
+          "name": "Always midnight",
+          "category": "World",
+          "codes": {
+            "pc": "NIGHTPROWLER"
+          }
+        },
+        {
+          "name": "Faster gameplay",
+          "category": "World",
+          "codes": {
+            "pc": "SPEEDITUP"
+          }
+        },
+        {
+          "name": "Slower gameplay",
+          "category": "World",
+          "codes": {
+            "pc": "SLOWITDOWN"
+          }
+        },
+        {
+          "name": "Faster clock",
+          "category": "World",
+          "codes": {
+            "pc": "YSOHNUL"
+          }
+        },
+        {
+          "name": "All traffic lights green",
+          "category": "World",
+          "codes": {
+            "pc": "ZEIIVG"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gta_vc",
+      "title": "Grand Theft Auto: Vice City",
+      "short": "Vice City",
+      "year": 2002,
+      "note": "On PC, type the code during play. PlayStation 2 combos are entered during play.",
+      "cheats": [
+        {
+          "name": "Full health",
+          "category": "Player",
+          "codes": {
+            "ps": "R1, R2, L1, Circle, Left, Down, Right, Up, Left, Down, Right, Up",
+            "pc": "ASPIRINE"
+          }
+        },
+        {
+          "name": "Full armor",
+          "category": "Player",
+          "codes": {
+            "ps": "R1, R2, L1, X, Left, Down, Right, Up, Left, Down, Right, Up",
+            "pc": "PRECIOUSPROTECTION"
+          }
+        },
+        {
+          "name": "Weapon set 1 (thug)",
+          "category": "Weapons",
+          "codes": {
+            "ps": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Right, Up",
+            "pc": "THUGSTOOLS"
+          }
+        },
+        {
+          "name": "Weapon set 2 (professional)",
+          "category": "Weapons",
+          "codes": {
+            "ps": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Down, Left",
+            "pc": "PROFESSIONALTOOLS"
+          }
+        },
+        {
+          "name": "Weapon set 3 (nutter)",
+          "category": "Weapons",
+          "codes": {
+            "ps": "R1, R2, L1, R2, Left, Down, Right, Up, Left, Down, Down, Down",
+            "pc": "NUTTERTOOLS"
+          }
+        },
+        {
+          "name": "Clear wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "R1, R1, Circle, R2, Up, Down, Up, Down, Up, Down",
+            "pc": "LEAVEMEALONE"
+          }
+        },
+        {
+          "name": "Raise wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "R1, R1, Circle, R2, Left, Right, Left, Right, Left, Right",
+            "pc": "YOUWONTTAKEMEALIVE"
+          }
+        },
+        {
+          "name": "Spawn Rhino tank",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Circle, Circle, L1, Circle, Circle, Circle, L1, L2, R1, Triangle, Circle, Triangle",
+            "pc": "PANZER"
+          }
+        },
+        {
+          "name": "Spawn Bloodring Banger",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "TRAVELINSTYLE"
+          }
+        },
+        {
+          "name": "Spawn Sabre Turbo",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "GETTHEREFAST"
+          }
+        },
+        {
+          "name": "Spawn Hotring Racer",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "GETTHEREVERYFASTINDEED"
+          }
+        },
+        {
+          "name": "Spawn Romero hearse",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "THELASTRIDE"
+          }
+        },
+        {
+          "name": "Spawn Love Fist limo",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "ROCKANDROLLCAR"
+          }
+        },
+        {
+          "name": "Spawn Trashmaster",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "RUBBISHCAR"
+          }
+        },
+        {
+          "name": "Spawn Caddy",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "BETTERTHANWALKING"
+          }
+        },
+        {
+          "name": "Cars fly",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "COMEFLYWITHME"
+          }
+        },
+        {
+          "name": "Cars drive on water",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "SEAWAYS"
+          }
+        },
+        {
+          "name": "Boats fly",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "AIRSHIP"
+          }
+        },
+        {
+          "name": "Better handling",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "GRIPISEVERYTHING"
+          }
+        },
+        {
+          "name": "Blow up all cars",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "R2, L2, R1, L1, L2, R2, Square, Triangle, Circle, Triangle, L2, L1",
+            "pc": "BIGBANG"
+          }
+        },
+        {
+          "name": "All cars black",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "IWANTITPAINTEDBLACK"
+          }
+        },
+        {
+          "name": "All cars pink",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "AHAIRDRESSERSCAR"
+          }
+        },
+        {
+          "name": "Aggressive traffic",
+          "category": "World",
+          "codes": {
+            "pc": "MIAMITRAFFIC"
+          }
+        },
+        {
+          "name": "All traffic lights green",
+          "category": "World",
+          "codes": {
+            "pc": "GREENLIGHT"
+          }
+        },
+        {
+          "name": "Sunny weather",
+          "category": "World",
+          "codes": {
+            "pc": "ALOVELYDAY"
+          }
+        },
+        {
+          "name": "Clear weather",
+          "category": "World",
+          "codes": {
+            "pc": "APLEASANTDAY"
+          }
+        },
+        {
+          "name": "Overcast weather",
+          "category": "World",
+          "codes": {
+            "pc": "ABITDRIEG"
+          }
+        },
+        {
+          "name": "Rainy weather",
+          "category": "World",
+          "codes": {
+            "pc": "CATSANDDOGS"
+          }
+        },
+        {
+          "name": "Foggy weather",
+          "category": "World",
+          "codes": {
+            "pc": "CANTSEEATHING"
+          }
+        },
+        {
+          "name": "Faster clock",
+          "category": "World",
+          "codes": {
+            "pc": "LIFEISPASSINGMEBY"
+          }
+        },
+        {
+          "name": "Faster gameplay",
+          "category": "World",
+          "codes": {
+            "pc": "ONSPEED"
+          }
+        },
+        {
+          "name": "Slower gameplay",
+          "category": "World",
+          "codes": {
+            "pc": "BOOOOOORING"
+          }
+        },
+        {
+          "name": "Pedestrians riot",
+          "category": "World",
+          "codes": {
+            "pc": "FIGHTFIGHTFIGHT"
+          }
+        },
+        {
+          "name": "Pedestrians attack you",
+          "category": "World",
+          "codes": {
+            "pc": "NOBODYLIKESME"
+          }
+        },
+        {
+          "name": "Pedestrians have weapons",
+          "category": "World",
+          "codes": {
+            "pc": "OURGODGIVENRIGHTTOBEARARMS"
+          }
+        },
+        {
+          "name": "Women follow you",
+          "category": "World",
+          "codes": {
+            "pc": "FANNYMAGNET"
+          }
+        },
+        {
+          "name": "Fat Tommy",
+          "category": "Player",
+          "codes": {
+            "pc": "DEEPFRIEDMARSBARS"
+          }
+        },
+        {
+          "name": "Skinny Tommy",
+          "category": "Player",
+          "codes": {
+            "pc": "PROGRAMMER"
+          }
+        },
+        {
+          "name": "Random outfit",
+          "category": "Player",
+          "codes": {
+            "pc": "STILLLIKEDRESSINGUP"
+          }
+        },
+        {
+          "name": "Tommy smokes a cigarette",
+          "category": "Player",
+          "codes": {
+            "pc": "CERTAINDEATH"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gta3",
+      "title": "Grand Theft Auto III",
+      "short": "GTA 3",
+      "year": 2001,
+      "note": "On PC, type the code during play.",
+      "cheats": [
+        {
+          "name": "Full health",
+          "category": "Player",
+          "codes": {
+            "pc": "GESUNDHEIT"
+          }
+        },
+        {
+          "name": "Full armor",
+          "category": "Player",
+          "codes": {
+            "pc": "TORTOISE"
+          }
+        },
+        {
+          "name": "All weapons",
+          "category": "Weapons",
+          "codes": {
+            "pc": "GUNSGUNSGUNS"
+          }
+        },
+        {
+          "name": "Raise wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "pc": "MOREPOLICEPLEASE"
+          }
+        },
+        {
+          "name": "Clear wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "pc": "NOPOLICEPLEASE"
+          }
+        },
+        {
+          "name": "Spawn Rhino tank",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "GIVEUSATANK"
+          }
+        },
+        {
+          "name": "Blow up all cars",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "BANGBANGBANG"
+          }
+        },
+        {
+          "name": "Flying cars",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "CHITTYCHITTYBB"
+          }
+        },
+        {
+          "name": "Better handling",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "CORNERSLIKEMAD"
+          }
+        },
+        {
+          "name": "Invisible cars",
+          "category": "Vehicles",
+          "codes": {
+            "pc": "ANICESETOFWHEELS"
+          }
+        },
+        {
+          "name": "Change outfit",
+          "category": "Player",
+          "codes": {
+            "pc": "ILIKEDRESSINGUP"
+          }
+        },
+        {
+          "name": "Pedestrians riot",
+          "category": "World",
+          "codes": {
+            "pc": "ITSALLGOINGMAAAD"
+          }
+        },
+        {
+          "name": "Pedestrians attack you",
+          "category": "World",
+          "codes": {
+            "pc": "NOBODYLIKESME"
+          }
+        },
+        {
+          "name": "Pedestrians have weapons",
+          "category": "World",
+          "codes": {
+            "pc": "WEAPONSFORALL"
+          }
+        },
+        {
+          "name": "More gore",
+          "category": "World",
+          "codes": {
+            "pc": "NASTYLIMBSCHEAT"
+          }
+        },
+        {
+          "name": "Sunny weather",
+          "category": "World",
+          "codes": {
+            "pc": "SKINCANCERFORME"
+          }
+        },
+        {
+          "name": "Cloudy weather",
+          "category": "World",
+          "codes": {
+            "pc": "ILIKESCOTLAND"
+          }
+        },
+        {
+          "name": "Rainy weather",
+          "category": "World",
+          "codes": {
+            "pc": "ILOVESCOTLAND"
+          }
+        },
+        {
+          "name": "Foggy weather",
+          "category": "World",
+          "codes": {
+            "pc": "PEASOUP"
+          }
+        },
+        {
+          "name": "Faster clock",
+          "category": "World",
+          "codes": {
+            "pc": "TIMEFLIESWHENYOU"
+          }
+        },
+        {
+          "name": "Slower gameplay",
+          "category": "World",
+          "codes": {
+            "pc": "BOOOOORING"
+          }
+        }
+      ]
+    },
+    {
+      "id": "gta_vcs",
+      "title": "GTA: Vice City Stories",
+      "short": "Vice City Stories",
+      "year": 2006,
+      "status": "coming_soon",
+      "note": "Codes are being checked and added.",
+      "cheats": []
+    },
+    {
+      "id": "gta_lcs",
+      "title": "GTA: Liberty City Stories",
+      "short": "Liberty City Stories",
+      "year": 2005,
+      "status": "coming_soon",
+      "note": "Codes are being checked and added.",
+      "cheats": []
+    },
+    {
+      "id": "gta_ctw",
+      "title": "GTA: Chinatown Wars",
+      "short": "Chinatown Wars",
+      "year": 2009,
+      "status": "coming_soon",
+      "note": "Codes are being checked and added.",
+      "cheats": []
+    },
+    {
+      "id": "gta_advance",
+      "title": "Grand Theft Auto Advance",
+      "short": "GTA Advance",
+      "year": 2004,
+      "status": "coming_soon",
+      "note": "Codes are being checked and added.",
+      "cheats": []
+    },
+    {
+      "id": "gta2",
+      "title": "Grand Theft Auto 2",
+      "short": "GTA 2",
+      "year": 1999,
+      "status": "coming_soon",
+      "note": "Codes are being checked and added.",
+      "cheats": []
+    },
+    {
+      "id": "gta_london",
+      "title": "GTA: London 1969 / 1961",
+      "short": "GTA London",
+      "year": 1999,
+      "status": "coming_soon",
+      "note": "Codes are being checked and added.",
+      "cheats": []
+    },
+    {
+      "id": "gta1",
+      "title": "Grand Theft Auto",
+      "short": "GTA",
+      "year": 1997,
+      "status": "coming_soon",
+      "note": "Codes are being checked and added.",
+      "cheats": []
+    }
+  ]
+}
