@@ -1,0 +1,419 @@
+{
+  "version": 1,
+  "updated": "2026-11-19",
+  "note": "The story has 91 missions in five chapters. Names come from published mission lists and can spoil the story, so each chapter stays closed until you open it. Tick missions as you finish them; your progress stays on this phone. The last missions are left out to avoid spoilers.",
+  "sources": "GamesRadar and Beebom mission lists, 18-19 Nov 2026",
+  "links": [
+    {
+      "title": "PowerPyx: full walkthrough",
+      "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/"
+    },
+    {
+      "title": "Keengamer: walkthrough by chapter",
+      "url": "https://www.keengamer.com/articles/guides/gta-6-walkthrough-all-chapters-and-story-missions-in-order/"
+    },
+    {
+      "title": "GamesRadar: mission list",
+      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mission-list/"
+    }
+  ],
+  "chapters": [
+    {
+      "id": "ch1",
+      "title": "Chapter 1: Just Like Paradise",
+      "missions": [
+        {
+          "id": "prologue",
+          "name": "Prologue"
+        },
+        {
+          "id": "gone-fishing",
+          "name": "Gone Fishing"
+        },
+        {
+          "id": "gear-up",
+          "name": "Gear Up"
+        },
+        {
+          "id": "just-a-scratch",
+          "name": "Just a Scratch"
+        },
+        {
+          "id": "lab-fees",
+          "name": "Lab Fees"
+        },
+        {
+          "id": "unwanted-attention",
+          "name": "Unwanted Attention"
+        },
+        {
+          "id": "pipework",
+          "name": "Pipework"
+        },
+        {
+          "id": "hey-arnold",
+          "name": "Hey Arnold!"
+        },
+        {
+          "id": "island-dreams",
+          "name": "Island Dreams"
+        },
+        {
+          "id": "feng-shui",
+          "name": "Feng Shui"
+        },
+        {
+          "id": "coming-home",
+          "name": "Coming Home"
+        },
+        {
+          "id": "buck-me",
+          "name": "Buck Me"
+        },
+        {
+          "id": "clean-up-after-donnie",
+          "name": "Clean Up After Donnie"
+        },
+        {
+          "id": "down-to-earth",
+          "name": "Down to Earth"
+        },
+        {
+          "id": "clear-skies",
+          "name": "Clear Skies"
+        },
+        {
+          "id": "day-release",
+          "name": "Day Release"
+        },
+        {
+          "id": "swamped",
+          "name": "Swamped"
+        },
+        {
+          "id": "recalibration",
+          "name": "Recalibration"
+        },
+        {
+          "id": "tourist-trap",
+          "name": "Tourist Trap"
+        },
+        {
+          "id": "home-sweet-home",
+          "name": "Home Sweet Home"
+        },
+        {
+          "id": "discharge-time",
+          "name": "Discharge Time"
+        }
+      ]
+    },
+    {
+      "id": "ch2",
+      "title": "Chapter 2: Paradise Lost",
+      "missions": [
+        {
+          "id": "what-s-in-the-bag",
+          "name": "What's in the Bag?"
+        },
+        {
+          "id": "ambulance-chaser",
+          "name": "Ambulance Chaser"
+        },
+        {
+          "id": "just-moved-in",
+          "name": "Just Moved In"
+        },
+        {
+          "id": "girls-trip",
+          "name": "Girls' Trip"
+        },
+        {
+          "id": "moses",
+          "name": "Moses"
+        },
+        {
+          "id": "daily-driver",
+          "name": "Daily Driver"
+        },
+        {
+          "id": "slam-dunk",
+          "name": "Slam Dunk"
+        },
+        {
+          "id": "breakfast-run",
+          "name": "Breakfast Run"
+        },
+        {
+          "id": "coffee-break",
+          "name": "Coffee Break"
+        },
+        {
+          "id": "afternoon-delight",
+          "name": "Afternoon Delight"
+        },
+        {
+          "id": "thrillbillies",
+          "name": "Thrillbillies",
+          "optional": true
+        },
+        {
+          "id": "twist-wrist-smash-grab",
+          "name": "Twist Wrist, Smash, Grab",
+          "optional": true
+        },
+        {
+          "id": "checking-out",
+          "name": "Checking Out"
+        }
+      ]
+    },
+    {
+      "id": "ch3",
+      "title": "Chapter 3",
+      "missions": [
+        {
+          "id": "welcome-to-vice-city",
+          "name": "Welcome to Vice City"
+        },
+        {
+          "id": "dealer-s-choice",
+          "name": "Dealer's Choice"
+        },
+        {
+          "id": "meet-the-heders",
+          "name": "Meet the Heders"
+        },
+        {
+          "id": "dubious-provenance",
+          "name": "Dubious Provenance"
+        },
+        {
+          "id": "mami-knows-best",
+          "name": "Mami Knows Best"
+        },
+        {
+          "id": "south-leonida-real-estate",
+          "name": "South Leonida Real Estate"
+        },
+        {
+          "id": "tyrone",
+          "name": "Tyrone"
+        },
+        {
+          "id": "here-kitty-kitty",
+          "name": "Here, Kitty Kitty"
+        },
+        {
+          "id": "kitty-litter-labs",
+          "name": "Kitty Litter Labs",
+          "optional": true
+        },
+        {
+          "id": "car-service",
+          "name": "Car Service"
+        },
+        {
+          "id": "top-billing",
+          "name": "Top Billing"
+        },
+        {
+          "id": "boobie-time",
+          "name": "Boobie Time"
+        },
+        {
+          "id": "first-impressions",
+          "name": "First Impressions"
+        },
+        {
+          "id": "caught-slipping",
+          "name": "Caught Slipping"
+        },
+        {
+          "id": "crosstown-traffic",
+          "name": "Crosstown Traffic"
+        },
+        {
+          "id": "credit-check",
+          "name": "Credit Check"
+        },
+        {
+          "id": "clonin-keys-makin-gs",
+          "name": "Clonin' Keys, Makin' GS"
+        },
+        {
+          "id": "sinfrontera-national-bank",
+          "name": "Sinfrontera National Bank"
+        },
+        {
+          "id": "security-expert",
+          "name": "Security Expert"
+        },
+        {
+          "id": "ride-or-die",
+          "name": "Ride or Die"
+        },
+        {
+          "id": "company-property",
+          "name": "Company Property"
+        },
+        {
+          "id": "the-missing-link",
+          "name": "The Missing Link"
+        },
+        {
+          "id": "safe-word",
+          "name": "Safe Word"
+        },
+        {
+          "id": "cooties",
+          "name": "Cooties"
+        },
+        {
+          "id": "bricked-up",
+          "name": "Bricked Up"
+        },
+        {
+          "id": "hidden-charges",
+          "name": "Hidden Charges"
+        },
+        {
+          "id": "the-cartel-heist",
+          "name": "The Cartel Heist"
+        }
+      ]
+    },
+    {
+      "id": "ch4",
+      "title": "Chapter 4: Vice City, Baby",
+      "missions": [
+        {
+          "id": "ocean-beach",
+          "name": "Ocean Beach"
+        },
+        {
+          "id": "another-life",
+          "name": "Another Life"
+        },
+        {
+          "id": "company-cars",
+          "name": "Company Cars"
+        },
+        {
+          "id": "lawyer-up",
+          "name": "Lawyer Up"
+        },
+        {
+          "id": "party-hard",
+          "name": "Party Hard"
+        },
+        {
+          "id": "heavy-lifting",
+          "name": "Heavy Lifting"
+        },
+        {
+          "id": "photo-shoot",
+          "name": "Photo/Shoot"
+        },
+        {
+          "id": "making-gainz",
+          "name": "Making Gainz"
+        },
+        {
+          "id": "watch-it",
+          "name": "Watch It"
+        },
+        {
+          "id": "cash-injections",
+          "name": "Cash Injections"
+        },
+        {
+          "id": "amateur-hour",
+          "name": "Amateur Hour"
+        },
+        {
+          "id": "dirty-work",
+          "name": "Dirty Work"
+        },
+        {
+          "id": "too-much-baggage",
+          "name": "Too Much Baggage"
+        },
+        {
+          "id": "adventures-in-babysitting",
+          "name": "Adventures in Babysitting"
+        },
+        {
+          "id": "fresh-evidence",
+          "name": "Fresh Evidence"
+        },
+        {
+          "id": "power-play",
+          "name": "Power Play"
+        },
+        {
+          "id": "child-s-play",
+          "name": "Child's Play"
+        },
+        {
+          "id": "headliners",
+          "name": "Headliners"
+        },
+        {
+          "id": "close-surveillance",
+          "name": "Close Surveillance"
+        },
+        {
+          "id": "delivery-method",
+          "name": "Delivery Method"
+        },
+        {
+          "id": "team-building",
+          "name": "Team Building"
+        },
+        {
+          "id": "fully-catered",
+          "name": "Fully Catered"
+        },
+        {
+          "id": "vcia-takedown",
+          "name": "VCIA Takedown"
+        },
+        {
+          "id": "sunset",
+          "name": "Sunset"
+        }
+      ]
+    },
+    {
+      "id": "ch5",
+      "title": "Chapter 5: Top of the World, Ma",
+      "missions": [
+        {
+          "id": "bird-in-the-hand",
+          "name": "Bird in the Hand"
+        },
+        {
+          "id": "taking-liberties",
+          "name": "Taking Liberties"
+        },
+        {
+          "id": "vc-baby",
+          "name": "VC Baby"
+        },
+        {
+          "id": "doggie-bag",
+          "name": "Doggie Bag"
+        },
+        {
+          "id": "operation-savage-glory",
+          "name": "Operation Savage Glory"
+        },
+        {
+          "id": "protective-custody",
+          "name": "Protective Custody"
+        }
+      ]
+    }
+  ]
+}
