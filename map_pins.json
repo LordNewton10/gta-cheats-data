@@ -1,0 +1,6 @@
+{
+  "version": 1,
+  "updated": "2026-11-19",
+  "note": "Shared map pins. x and y run from 0 (left/top) to 1 (right/bottom) across the map image. kind: vehicle, secret, easter_egg, collectible, weapon, activity or note. Tip: place a pin in the app, open it and tap Copy for GitHub to get its line.",
+  "pins": []
+}
