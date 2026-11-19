@@ -1,419 +1,1413 @@
 {
-  "version": 1,
-  "updated": "2026-11-19",
-  "note": "The story has 91 missions in five chapters. Names come from published mission lists and can spoil the story, so each chapter stays closed until you open it. Tick missions as you finish them; your progress stays on this phone. The last missions are left out to avoid spoilers.",
-  "sources": "GamesRadar and Beebom mission lists, 18-19 Nov 2026",
-  "links": [
+ "version": 1,
+ "updated": "2026-11-19",
+ "note": "The story has 91 missions in five chapters. Names come from published mission lists and can spoil the story, so each chapter stays closed until you open it. Tick missions as you finish them; your progress stays on this phone. The last missions are left out to avoid spoilers.",
+ "sources": "GamesRadar and Beebom mission lists, 18-19 Nov 2026",
+ "chapters": [
+  {
+   "id": "ch1",
+   "title": "Chapter 1: Just Like Paradise",
+   "missions": [
     {
-      "title": "PowerPyx: full walkthrough",
-      "url": "https://www.powerpyx.com/gta-6-full-walkthrough-all-missions/"
+     "id": "prologue",
+     "name": "Prologue",
+     "start": "Starts on its own when you begin a new game, with Lucia in her cell at Hamlet Prison.",
+     "steps": [
+      "Turn around in the cell and chat with your cellmates.",
+      "Follow the guard through the common area and wait while he takes a phone call.",
+      "Keep following him down the corridor to the counselor's office to trigger a flashback.",
+      "In the loan shop, aim at the clerk, threaten him and take the cash he hands over.",
+      "Pass the quick-time prompt when a customer grabs you.",
+      "Run from the police; you cannot actually escape, the scene cuts back on its own.",
+      "Head for the coffee shop marked on the minimap to finish the flashback."
+     ],
+     "tips": [
+      "The arrest at the end is scripted, so don't waste time trying to dodge it."
+     ]
     },
     {
-      "title": "Keengamer: walkthrough by chapter",
-      "url": "https://www.keengamer.com/articles/guides/gta-6-walkthrough-all-chapters-and-story-missions-in-order/"
+     "id": "gone-fishing",
+     "name": "Gone Fishing",
+     "start": "Follows straight on from the Prologue; you now play as Jason on a boat with Cal.",
+     "steps": [
+      "Chase the low-flying plane and ease off near each floating package so Cal can grab it.",
+      "Follow the route to the swamp and watch the dockside deal through your binoculars.",
+      "Land at the docks and sneak through the camp, knocking guards out from behind.",
+      "Get into the shack at the far end, free your contact and beat the brute who walks in.",
+      "Take the healing item and a weapon, then fight your way to the seaplane.",
+      "Fly to the marker, set down on the water and taxi into the marina."
+     ],
+     "tips": [
+      "Stay crouched; guards only notice you when you get very close.",
+      "Shooting limbs instead of killing keeps your reputation away from the violent end.",
+      "Start studying animals with the binoculars now; 100 of them count toward 100%."
+     ],
+     "missable": [
+      "Cash inside the red and white trailer on the way to the plane; grabbing it earns professional reputation."
+     ]
     },
     {
-      "title": "GamesRadar: mission list",
-      "url": "https://www.gamesradar.com/games/grand-theft-auto/gta-6-mission-list/"
+     "id": "gear-up",
+     "name": "Gear Up",
+     "start": "Ammu-Nation close to Jason's house in Key Lento; his car is parked outside.",
+     "steps": [
+      "Walk into the gun shop and speak to the clerk.",
+      "Choose a long gun; early on you can probably only afford the shotgun.",
+      "Step outside ready to fight, as a truck of gang members pulls up shooting.",
+      "Take them out to get the call that wraps up the mission."
+     ],
+     "tips": [
+      "Dying here simply sends you home and still completes the mission, with no lasting effect."
+     ]
+    },
+    {
+     "id": "just-a-scratch",
+     "name": "Just a Scratch",
+     "start": "Coastal Auto Care in Key Lento; drive there in Jason's own Ganado.",
+     "steps": [
+      "Take Jason's Ganado from outside his house to the marker.",
+      "Speak with Joey by the garage, then drive inside.",
+      "Pick the full engine repair, which is free.",
+      "Open the cosmetics menu and choose any respray colour."
+     ],
+     "tips": [
+      "If you wrecked the Ganado, save and reload to find it back at the house.",
+      "Skip pricey upgrades for now: this car is replaced later in the story and mods are lost."
+     ]
+    },
+    {
+     "id": "lab-fees",
+     "name": "Lab Fees",
+     "start": "A locked gift shop in Key Lento; call Brian from outside so you can enter.",
+     "steps": [
+      "Phone Brian at the closed shop, then go inside.",
+      "Talk to the clerk, then punch him once when he says he can't pay.",
+      "Open the back room keypad with code 0420 and pick up the acid.",
+      "Call Brian to learn where to drop it.",
+      "Drive to Brian's lockup (green map icon), enter code 7700 and stash the acid."
+     ],
+     "tips": [
+      "You can empty the shop's till on your way out.",
+      "Your $600 payment turns up later in the mailbox at Jason's house, since you have no bank account yet."
+     ]
+    },
+    {
+     "id": "unwanted-attention",
+     "name": "Unwanted Attention",
+     "start": "Meet Cal on the beach in northern Key Lento.",
+     "steps": [
+      "Drive with Cal to the impound lot in Hamlet; he adds a police scanner to your phone.",
+      "Hop the fence, climb the containers at the back and drop into the inner yard.",
+      "Use the tow truck to unhook the red Phoenix, then jump into the Phoenix.",
+      "Wait at the gate until it opens, then speed off and lose the police.",
+      "Respray the car at the Hamlet Pay 'n' Spray and park it in the marked garage.",
+      "Grab the $150 in the back room, toggle your hat and glasses, and buy an outfit next door."
+     ],
+     "tips": [
+      "Police always spot you at the gate, so be ready to drive the moment it opens.",
+      "Turns, off-road shortcuts and then a long straight road help shake the cops.",
+      "Scan cars with the Waink app as you go; 200 of them count toward 100%."
+     ]
+    },
+    {
+     "id": "pipework",
+     "name": "Pipework",
+     "start": "Unlocks once Gear Up, Lab Fees, Just a Scratch and Unwanted Attention are done; meet Mandy outside her house.",
+     "steps": [
+      "Speak to Mandy and follow her inside.",
+      "Ask where the plunger is, then fetch it from the bathroom floor.",
+      "Use the plunger and then the wrench on the kitchen sink.",
+      "Pick up the cigar box she throws into the street on your way out."
+     ],
+     "missable": [
+      "The Macizo cigar only counts if you pick it up off the street before leaving."
+     ]
+    },
+    {
+     "id": "hey-arnold",
+     "name": "Hey Arnold!",
+     "start": "Brian calls a few minutes after Pipework; meet him at the pool bar in south Key Lento.",
+     "steps": [
+      "Get into Brian's car and wait for him.",
+      "Drive to the liquor store to collect Cal.",
+      "Head into the search area in Maroon Key; the marker narrows down to Arnold.",
+      "When shooting starts, chase Arnold's car and shoot the bikers on the way.",
+      "Follow him on foot to the docks.",
+      "Decide whether to spare him or not; both lead to the same result."
+     ],
+     "tips": [
+      "Use the slow-motion aim while driving to hit the riders more easily.",
+      "Stunt jumps you clear during the chase stay listed under the Exploration map filter."
+     ]
+    },
+    {
+     "id": "island-dreams",
+     "name": "Island Dreams",
+     "start": "Kenton's beach shop in Key Lento, after Hey Arnold.",
+     "steps": [
+      "Talk to Kenton, then drive the boat to the dive spot in the Atlantic.",
+      "Put on the scuba gear at the back of the boat and dive in.",
+      "Lead the divers through the underwater trench to the wreck.",
+      "Equip the metal detector and sweep the search area until it turns green; dig up all 3 chests.",
+      "Lift the grate to free the trapped diver, then swap to the harpoon gun.",
+      "Swim back to the boat with the group."
+     ],
+     "tips": [
+      "Two harpoon hits drive the shark off; whether you save the diver has no lasting effect.",
+      "Study fish while diving; they count toward the 100 animals for 100%.",
+      "You have plenty of air, so there is no need to rush."
+     ]
+    },
+    {
+     "id": "feng-shui",
+     "name": "Feng Shui",
+     "start": "A text arrives after Island Dreams; walk into Jason's house to begin.",
+     "steps": [
+      "Take a beer from the fridge and sit with Cal on the couch.",
+      "Help Cal shift the TV, coffee table, couch and chair.",
+      "Play the Tenebrae Lux minigame until it ends by itself.",
+      "Play Street Trash III; you can lose quickly to move things along."
+     ],
+     "tips": [
+      "Both games are unwinnable, so don't spend effort on them.",
+      "Moving the coffee table again just loops back to the same spot."
+     ]
+    },
+    {
+     "id": "coming-home",
+     "name": "Coming Home",
+     "start": "Lucia phones the morning after Feng Shui; the marker is at Hamlet Correctional.",
+     "steps": [
+      "Before she calls back, do the side errands: groceries, flowers, necklace, haircut and her clothes.",
+      "Repair Jason's house too: bedroom wall, stairs, roof and balcony railing.",
+      "Sleep and wait for the second call, then drive to the prison with her clothes in your trunk.",
+      "Check in at reception, walk Lucia to the car and drive to the Rusty Anchor.",
+      "Buy two beers, carry them out to Lucia, then mingle and dance.",
+      "Play pool with Mattia until the interruption, then win the brawl outside.",
+      "Run off with Lucia before the police arrive."
+     ],
+     "tips": [
+      "In the bar fight, hold block when an opponent starts turning his shoulders.",
+      "Choices with Cal and Donnie at the bar have no consequences.",
+      "Switch on all HUD and progress notifications in the UI settings to track 100% items."
+     ],
+     "missable": [
+      "The optional errands raise your starting relationship with Lucia; doing all of them gives a stronger start.",
+      "Buy the $425 necklace before pickup; it matters again in Chapter 2.",
+      "House repairs get noticed by Lucia only if finished before this mission."
+     ]
+    },
+    {
+     "id": "buck-me",
+     "name": "Buck Me",
+     "start": "Lucia calls about half a day after Coming Home; meet her at the Fleeca branch in Key Lento.",
+     "steps": [
+      "Speak to the teller inside the bank.",
+      "See the manager at the corner table and follow him to his office.",
+      "Once home, open the BuckMe app on your phone.",
+      "Move the $100 welcome money into Family Savings."
+     ],
+     "tips": [
+      "Family Savings can never be withdrawn but can never be lost either, and it unlocks discounts.",
+      "Bank your pocket cash at ATMs; you lose carried cash when you die.",
+      "Items over $1,000 are always paid through BuckMe."
+     ]
+    },
+    {
+     "id": "clean-up-after-donnie",
+     "name": "Clean Up After Donnie",
+     "start": "Donnie calls the morning after Coming Home; the marker is in the swamps south-west of Hamlet.",
+     "steps": [
+      "Talk to the fisherman on the dock to locate the package.",
+      "Inspect the package under the roof to learn where the gang went.",
+      "Take the nearby boat south to the marked shack.",
+      "Deal with the three gang members and collect the cocaine inside.",
+      "Boat over to Donnie's trailer in Key Lento and drop the bag in the container."
+     ],
+     "tips": [
+      "The $600 reward is delivered to Jason's mailbox later."
+     ]
+    },
+    {
+     "id": "down-to-earth",
+     "name": "Down to Earth",
+     "start": "Unlocks after Clean Up After Donnie and Buck Me; see Brian in his marina office.",
+     "steps": [
+      "Walk out with Brian to Cal's boat and pressure-wash all the green grime off it.",
+      "Board the seaplane with Lucia and fly to Bobcat Bay in north-west Mariana County.",
+      "Land beside the boat and hook the package out of the water.",
+      "Win the shootout with the smugglers.",
+      "Fly to the three drop points; Lucia handles the drops.",
+      "Rush home, hide the goods in the washing machine under the house, then join Lucia."
+     ],
+     "tips": [
+      "Aim for arms and legs if you want professional reputation; the result is the same either way."
+     ],
+     "missable": [
+      "Lucia teaches meditation on the terrace at the end, unlocking the first of 18 Meditation Spots."
+     ]
+    },
+    {
+     "id": "clear-skies",
+     "name": "Clear Skies",
+     "start": "Brian calls after Down to Earth; go to the seaplane in Southwind in the afternoon.",
+     "steps": [
+      "Meet Donnie at the plane, then find Brian at the tiki bar up the street.",
+      "Roll the plane into the water and take off.",
+      "Fly to the ocean intercept point, then stay right above the other plane to the swamp airstrip.",
+      "Fly on to the north-west airstrip and walk to the meeting.",
+      "Win the gunfight, clear the next building and untie Donnie.",
+      "Protect him as he reaches the plane, then grab a bike and ride to the meet point east of Watson Bay."
+     ],
+     "tips": [
+      "Arriving at the wrong time? Hold the prompt to wait until the afternoon.",
+      "Taking off from the water is safer than from the road.",
+      "If Donnie dies you restart at a checkpoint, so shoot fast during the escape."
+     ]
+    },
+    {
+     "id": "day-release",
+     "name": "Day Release",
+     "start": "Mattia calls after Down to Earth; order a drink from the bartender at the Rusty Anchor.",
+     "steps": [
+      "Board the speedboat behind the bar and drive the long way to the yacht off Vice City.",
+      "Race Mattia on jet skis; winning is optional.",
+      "As Lucia, shoot the champagne bottles out of the air, then pick a dress.",
+      "Head two decks down and find Mattia in the middle room.",
+      "Follow Mattia's car through Vice City, then race to the Huxley Motel.",
+      "Go into the club, dance with Jason, then find him through the right-hand door upstairs."
+     ],
+     "tips": [
+      "Use slow-motion aim on the bottles.",
+      "Resetting a crashed sports car fully repairs it."
+     ],
+     "missable": [
+      "Riding with Jason, holding hands and dancing together all raise your relationship with him."
+     ]
+    },
+    {
+     "id": "swamped",
+     "name": "Swamped",
+     "start": "Unlocks after Day Release, Clear Skies and Building a Life; enter the back room at Brian's marina.",
+     "steps": [
+      "Drive Brian to the Kingfishers camp in north-west Mariana County.",
+      "Follow him to the pig pen and inspect it when prompted.",
+      "Fight your way out, staying with Brian (green dot).",
+      "Take the helicopter on the left and chase the boat.",
+      "Shoot the enemies on the ground from the chopper.",
+      "Switch to a boat, pull right alongside the target and jump across, then mash to win the fight."
+     ],
+     "tips": [
+      "Hug the side of the boat to trigger the jump, and be quick before enemy fire kills your engine."
+     ],
+     "missable": [
+      "Back home, tell Lucia about Brian's retirement for a relationship boost."
+     ]
+    },
+    {
+     "id": "recalibration",
+     "name": "Recalibration",
+     "start": "Lucia calls during or after Don Gone and Donnie's Lost Drugs; it starts when you get home.",
+     "steps": [
+      "Buy a 6-pack from the fridge at the marked liquor store.",
+      "Drive to Cal's and talk to him by the water.",
+      "Take the boat to the fishing spot about two minutes away.",
+      "Cast, hook a bite, then steer opposite the fish and spin the stick to reel in.",
+      "Head back to Cal's dock and grill all three fish evenly on both sides.",
+      "Follow Lucia out front and drive her home."
+     ],
+     "tips": [
+      "Beer from the fridge is charged when you pick it up; no checkout needed."
+     ],
+     "missable": [
+      "Point of no return after this: free roam as Jason ends for a long time.",
+      "Keep a separate manual save and bank at least $5,000 into Family Savings first.",
+      "Pocket cash is lost and Jason's Key Lento house is gone for good after this stretch."
+     ]
+    },
+    {
+     "id": "tourist-trap",
+     "name": "Tourist Trap",
+     "start": "Find Lucia picking up trash on the beach in south Key Lento after Recalibration.",
+     "steps": [
+      "Walk up the ramp and fetch the bag from the lockers at the end of the walkway.",
+      "Head back toward the car and let the scene play out.",
+      "Follow the officer inside.",
+      "As Lucia, deal with the attacker, then fight through to the docks.",
+      "Drag Jason to the boat while firing your pistol one-handed.",
+      "Drive out to open water, then on to Cal's house."
+     ],
+     "tips": [
+      "Police kills in this mission don't hurt your criminal profile; they're part of the story."
+     ],
+     "missable": [
+      "Make a permanent save before starting; there is no free roam until Chapter 2.",
+      "Side questlines (Kenton, Cal's fishing, gang hideouts) pause but return later."
+     ]
+    },
+    {
+     "id": "home-sweet-home",
+     "name": "Home Sweet Home",
+     "start": "Begins right after Tourist Trap, as Lucia at Jason's house.",
+     "steps": [
+      "Go into the house and fight off the two intruders.",
+      "Leave the stash and run out the front door straight away.",
+      "Sneak crouched through the dark toward the main road through Key Lento.",
+      "Steal a car or keep walking, unseen, to the edge of the search zone."
+     ],
+     "tips": [
+      "There is no time to grab the cash, so don't try."
+     ]
+    },
+    {
+     "id": "discharge-time",
+     "name": "Discharge Time",
+     "start": "Begins right after Home Sweet Home, as Lucia at Vice City Hospital.",
+     "steps": [
+      "Go left and upstairs, then follow the pink line to room 203.",
+      "As Jason in the wheelchair, shoot attackers while Lucia pushes you.",
+      "Take the shotgun from the gunman and hold off the next wave.",
+      "After the blast, crawl forward to the gun.",
+      "From the back of the ambulance, shoot the chasing police cars."
+     ],
+     "tips": [
+      "Each shotgun blast shoves the wheelchair back, so line up shots carefully."
+     ]
     }
-  ],
-  "chapters": [
+   ]
+  },
+  {
+   "id": "ch2",
+   "title": "Chapter 2: Paradise Lost",
+   "missions": [
     {
-      "id": "ch1",
-      "title": "Chapter 1: Just Like Paradise",
-      "missions": [
-        {
-          "id": "prologue",
-          "name": "Prologue"
-        },
-        {
-          "id": "gone-fishing",
-          "name": "Gone Fishing"
-        },
-        {
-          "id": "gear-up",
-          "name": "Gear Up"
-        },
-        {
-          "id": "just-a-scratch",
-          "name": "Just a Scratch"
-        },
-        {
-          "id": "lab-fees",
-          "name": "Lab Fees"
-        },
-        {
-          "id": "unwanted-attention",
-          "name": "Unwanted Attention"
-        },
-        {
-          "id": "pipework",
-          "name": "Pipework"
-        },
-        {
-          "id": "hey-arnold",
-          "name": "Hey Arnold!"
-        },
-        {
-          "id": "island-dreams",
-          "name": "Island Dreams"
-        },
-        {
-          "id": "feng-shui",
-          "name": "Feng Shui"
-        },
-        {
-          "id": "coming-home",
-          "name": "Coming Home"
-        },
-        {
-          "id": "buck-me",
-          "name": "Buck Me"
-        },
-        {
-          "id": "clean-up-after-donnie",
-          "name": "Clean Up After Donnie"
-        },
-        {
-          "id": "down-to-earth",
-          "name": "Down to Earth"
-        },
-        {
-          "id": "clear-skies",
-          "name": "Clear Skies"
-        },
-        {
-          "id": "day-release",
-          "name": "Day Release"
-        },
-        {
-          "id": "swamped",
-          "name": "Swamped"
-        },
-        {
-          "id": "recalibration",
-          "name": "Recalibration"
-        },
-        {
-          "id": "tourist-trap",
-          "name": "Tourist Trap"
-        },
-        {
-          "id": "home-sweet-home",
-          "name": "Home Sweet Home"
-        },
-        {
-          "id": "discharge-time",
-          "name": "Discharge Time"
-        }
-      ]
+     "id": "what-s-in-the-bag",
+     "name": "What's in the Bag?",
+     "start": "Starts on its own right after Chapter 1 ends, at the Starlet Motel in Port Gellhorn, Kelly County, playing as Lucia.",
+     "steps": [
+      "Inspect the small statue of a woman in the room.",
+      "Turn the statue over and read the note hidden under it.",
+      "Look at the hard drive. You have no computer to use it yet, so the mission ends here."
+     ],
+     "tips": [
+      "This is a very short scene. Once it is done you can roam the open world as Lucia."
+     ]
     },
     {
-      "id": "ch2",
-      "title": "Chapter 2: Paradise Lost",
-      "missions": [
-        {
-          "id": "what-s-in-the-bag",
-          "name": "What's in the Bag?"
-        },
-        {
-          "id": "ambulance-chaser",
-          "name": "Ambulance Chaser"
-        },
-        {
-          "id": "just-moved-in",
-          "name": "Just Moved In"
-        },
-        {
-          "id": "girls-trip",
-          "name": "Girls' Trip"
-        },
-        {
-          "id": "moses",
-          "name": "Moses"
-        },
-        {
-          "id": "daily-driver",
-          "name": "Daily Driver"
-        },
-        {
-          "id": "slam-dunk",
-          "name": "Slam Dunk"
-        },
-        {
-          "id": "breakfast-run",
-          "name": "Breakfast Run"
-        },
-        {
-          "id": "coffee-break",
-          "name": "Coffee Break"
-        },
-        {
-          "id": "afternoon-delight",
-          "name": "Afternoon Delight"
-        },
-        {
-          "id": "thrillbillies",
-          "name": "Thrillbillies",
-          "optional": true
-        },
-        {
-          "id": "twist-wrist-smash-grab",
-          "name": "Twist Wrist, Smash, Grab",
-          "optional": true
-        },
-        {
-          "id": "checking-out",
-          "name": "Checking Out"
-        }
-      ]
+     "id": "ambulance-chaser",
+     "name": "Ambulance Chaser",
+     "start": "Triggers the first time you step out of your Starlet Motel room after What's in the Bag?.",
+     "steps": [
+      "Head to the barn just east of the motel and climb the stairs behind it.",
+      "Hop on the ATV inside the barn and chase the stolen ambulance.",
+      "Keep close without crashing. The ambulance stops by itself after hitting a tree to the south.",
+      "Grab the red fuel can lying behind the ambulance.",
+      "Hold R1/RB to pour fuel over the ambulance, then press Triangle/Y on the trail to light it.",
+      "Leave the area fast, because the blast draws the police."
+     ],
+     "tips": [
+      "If you have a gun, you can throw the fuel can into the back of the ambulance and shoot it instead."
+     ]
     },
     {
-      "id": "ch3",
-      "title": "Chapter 3",
-      "missions": [
-        {
-          "id": "welcome-to-vice-city",
-          "name": "Welcome to Vice City"
-        },
-        {
-          "id": "dealer-s-choice",
-          "name": "Dealer's Choice"
-        },
-        {
-          "id": "meet-the-heders",
-          "name": "Meet the Heders"
-        },
-        {
-          "id": "dubious-provenance",
-          "name": "Dubious Provenance"
-        },
-        {
-          "id": "mami-knows-best",
-          "name": "Mami Knows Best"
-        },
-        {
-          "id": "south-leonida-real-estate",
-          "name": "South Leonida Real Estate"
-        },
-        {
-          "id": "tyrone",
-          "name": "Tyrone"
-        },
-        {
-          "id": "here-kitty-kitty",
-          "name": "Here, Kitty Kitty"
-        },
-        {
-          "id": "kitty-litter-labs",
-          "name": "Kitty Litter Labs",
-          "optional": true
-        },
-        {
-          "id": "car-service",
-          "name": "Car Service"
-        },
-        {
-          "id": "top-billing",
-          "name": "Top Billing"
-        },
-        {
-          "id": "boobie-time",
-          "name": "Boobie Time"
-        },
-        {
-          "id": "first-impressions",
-          "name": "First Impressions"
-        },
-        {
-          "id": "caught-slipping",
-          "name": "Caught Slipping"
-        },
-        {
-          "id": "crosstown-traffic",
-          "name": "Crosstown Traffic"
-        },
-        {
-          "id": "credit-check",
-          "name": "Credit Check"
-        },
-        {
-          "id": "clonin-keys-makin-gs",
-          "name": "Clonin' Keys, Makin' GS"
-        },
-        {
-          "id": "sinfrontera-national-bank",
-          "name": "Sinfrontera National Bank"
-        },
-        {
-          "id": "security-expert",
-          "name": "Security Expert"
-        },
-        {
-          "id": "ride-or-die",
-          "name": "Ride or Die"
-        },
-        {
-          "id": "company-property",
-          "name": "Company Property"
-        },
-        {
-          "id": "the-missing-link",
-          "name": "The Missing Link"
-        },
-        {
-          "id": "safe-word",
-          "name": "Safe Word"
-        },
-        {
-          "id": "cooties",
-          "name": "Cooties"
-        },
-        {
-          "id": "bricked-up",
-          "name": "Bricked Up"
-        },
-        {
-          "id": "hidden-charges",
-          "name": "Hidden Charges"
-        },
-        {
-          "id": "the-cartel-heist",
-          "name": "The Cartel Heist"
-        }
-      ]
+     "id": "just-moved-in",
+     "name": "Just Moved In",
+     "start": "Shows up on the map after What's in the Bag?, starting at the Starlet Motel.",
+     "steps": [
+      "Cross the road to the convenience store at the gas station.",
+      "Pick up all 8 items on the list: soda, protein bars, fruit, soup, gauze, bandanas, hair clippers and a makeup bag.",
+      "Go back to your motel room to finish."
+     ],
+     "tips": [
+      "You pay for each item as you grab it, so there is no need to visit the till.",
+      "The items show on the minimap if that option is turned on."
+     ]
     },
     {
-      "id": "ch4",
-      "title": "Chapter 4: Vice City, Baby",
-      "missions": [
-        {
-          "id": "ocean-beach",
-          "name": "Ocean Beach"
-        },
-        {
-          "id": "another-life",
-          "name": "Another Life"
-        },
-        {
-          "id": "company-cars",
-          "name": "Company Cars"
-        },
-        {
-          "id": "lawyer-up",
-          "name": "Lawyer Up"
-        },
-        {
-          "id": "party-hard",
-          "name": "Party Hard"
-        },
-        {
-          "id": "heavy-lifting",
-          "name": "Heavy Lifting"
-        },
-        {
-          "id": "photo-shoot",
-          "name": "Photo/Shoot"
-        },
-        {
-          "id": "making-gainz",
-          "name": "Making Gainz"
-        },
-        {
-          "id": "watch-it",
-          "name": "Watch It"
-        },
-        {
-          "id": "cash-injections",
-          "name": "Cash Injections"
-        },
-        {
-          "id": "amateur-hour",
-          "name": "Amateur Hour"
-        },
-        {
-          "id": "dirty-work",
-          "name": "Dirty Work"
-        },
-        {
-          "id": "too-much-baggage",
-          "name": "Too Much Baggage"
-        },
-        {
-          "id": "adventures-in-babysitting",
-          "name": "Adventures in Babysitting"
-        },
-        {
-          "id": "fresh-evidence",
-          "name": "Fresh Evidence"
-        },
-        {
-          "id": "power-play",
-          "name": "Power Play"
-        },
-        {
-          "id": "child-s-play",
-          "name": "Child's Play"
-        },
-        {
-          "id": "headliners",
-          "name": "Headliners"
-        },
-        {
-          "id": "close-surveillance",
-          "name": "Close Surveillance"
-        },
-        {
-          "id": "delivery-method",
-          "name": "Delivery Method"
-        },
-        {
-          "id": "team-building",
-          "name": "Team Building"
-        },
-        {
-          "id": "fully-catered",
-          "name": "Fully Catered"
-        },
-        {
-          "id": "vcia-takedown",
-          "name": "VCIA Takedown"
-        },
-        {
-          "id": "sunset",
-          "name": "Sunset"
-        }
-      ]
+     "id": "girls-trip",
+     "name": "Girls' Trip",
+     "start": "A pink search area at the Starlet Motel, after Overnight Charges and Just Moved In.",
+     "steps": [
+      "Ask around the motel for painkillers. Zach, near reception, sends you to Room 10.",
+      "Knock on Room 10, pay Vicki $50 and take the pills back to Jason.",
+      "The pills are the wrong kind, so go back to Room 10 and confront Vicki.",
+      "Drive Vicki's car to the Delights club in Port Gellhorn and follow her inside, then return to the car.",
+      "Look for Dunk at his trailer, then the boatyard, then go into the car wash.",
+      "Face the Kolts gang, then open the shutter and chase Dunk's car until he crashes.",
+      "Drive Dunk home in Vicki's car to wrap up."
+     ],
+     "tips": [
+      "Picking Defuse both times with the Kolts avoids a fight and raises your reputation. Provoke leads to combat."
+     ]
     },
     {
-      "id": "ch5",
-      "title": "Chapter 5: Top of the World, Ma",
-      "missions": [
-        {
-          "id": "bird-in-the-hand",
-          "name": "Bird in the Hand"
-        },
-        {
-          "id": "taking-liberties",
-          "name": "Taking Liberties"
-        },
-        {
-          "id": "vc-baby",
-          "name": "VC Baby"
-        },
-        {
-          "id": "doggie-bag",
-          "name": "Doggie Bag"
-        },
-        {
-          "id": "operation-savage-glory",
-          "name": "Operation Savage Glory"
-        },
-        {
-          "id": "protective-custody",
-          "name": "Protective Custody"
-        }
-      ]
+     "id": "moses",
+     "name": "Moses",
+     "start": "Marked on the map after Girls Trip. Drive any car into Moses's garage in Port Gellhorn.",
+     "steps": [
+      "Follow Moses to the yard behind the garage, where three vehicles sit.",
+      "Open the Waink app by holding D-pad up, then hold R1/RB to scan each vehicle for a tracker.",
+      "Take the Slim Jim lying beside Moses.",
+      "Break into the Montagne XL: use the door, then tilt the right stick when the bar turns pink.",
+      "Follow Moses back inside. If your car has a tracker, steal one without a tracker from the main road.",
+      "Respray the car in a new color and register it as Lucia's personal vehicle."
+     ],
+     "tips": [
+      "Moses refuses cars taken close to his garage, so grab one from the main road in central Port Gellhorn.",
+      "Cheap cars usually have no tracker. Mid-range cars have standard trackers and supercars have advanced ones.",
+      "From now on Moses buys untracked stolen cars, which is good early money. He needs a minute or two between sales."
+     ]
+    },
+    {
+     "id": "daily-driver",
+     "name": "Daily Driver",
+     "start": "Moses texts a photo of an '82 Crawler after the Moses mission, which marks it on the map.",
+     "steps": [
+      "Head to the search area and find the white Crawler jeep in the middle.",
+      "Fight off the guards, or just run to the jeep and drive away.",
+      "Take the jeep to Moses's garage nearby."
+     ],
+     "tips": [
+      "You get $1,250, plus a $500 bonus if the jeep arrives in good shape, so drive carefully.",
+      "Soon after, Moses gives you the Port Gellhorn Garage, and the real estate app for buying garages unlocks."
+     ]
+    },
+    {
+     "id": "slam-dunk",
+     "name": "Slam Dunk",
+     "start": "Dunk calls twice once the other Chapter 2 jobs are done, then a marker appears at his trailer in Port Gellhorn.",
+     "steps": [
+      "Follow Dunk to a hiding spot by a convenience store and wait for Dr. Bill.",
+      "Follow Bill to his car, then drive it to the Kolts gang at the docks.",
+      "Creep slowly behind the gang member to the office. When shooting starts, reverse out fast.",
+      "Keep driving until the Kolts give up the chase.",
+      "Collect Dr. Bill after he runs off, then drive to the airstrip southwest of Port Gellhorn.",
+      "Clear out every Kolts member, including those inside buildings, then find Dunk in the central building.",
+      "Drive Dunk back to his trailer to finish."
+     ],
+     "tips": [
+      "The airstrip gunfight is the hard part. Stay in cover and heal with Zombix when needed.",
+      "Searching Bill's body gives about $1,000 extra.",
+      "Dunk becomes a fence afterward and sends roughly $1,700 the next day."
+     ],
+     "missable": [
+      "The roughly $1,000 from Bill's body is optional loot. Grab it during the mission in case it is gone afterward."
+     ]
+    },
+    {
+     "id": "breakfast-run",
+     "name": "Breakfast Run",
+     "start": "Jason calls about half a day after Slam Dunk. Go to the pink marker at the Starlet Motel.",
+     "steps": [
+      "Drive to Hank's Waffles.",
+      "Point your gun at the staff, threaten them and take the cash from the counter.",
+      "Rob the liquor store the same way. Getting back in the car takes you to the next shop.",
+      "Rob the thrift store the same way, then return to the car.",
+      "Lose the 2-star police chase."
+     ],
+     "tips": [
+      "Each robbery has a one-minute timer, which is plenty.",
+      "Small dirt tracks make it easier to shake the police.",
+      "Doing other pending missions can make Jason's call come sooner."
+     ]
+    },
+    {
+     "id": "coffee-break",
+     "name": "Coffee Break",
+     "start": "Follows straight on from Breakfast Run. Jason and Lucia appear outside the Starlet Motel.",
+     "steps": [
+      "Walk with Lucia to the motel kitchen in the south corner. Wyman stops you on the way.",
+      "Buy Lucia a coffee from the machine for $2.",
+      "Head to your car.",
+      "Hold D-pad right to interact with your partner. This unlocks switching characters with R1/RB."
+     ],
+     "tips": [
+      "Afterward four jobs open at once and can be done in any order: Thrillbillies, Hit Every Pawn, Hit Kingpin Bowling and Impounded Vehicle."
+     ]
+    },
+    {
+     "id": "afternoon-delight",
+     "name": "Afternoon Delight",
+     "start": "Vicki calls once Coffee Break and the other pending main jobs are done. Head to the Delights club in Port Gellhorn.",
+     "steps": [
+      "Get backstage. Lucia can walk in, while Jason climbs the back fence once the bouncers leave.",
+      "Play as Lucia walking from the bar to the stage.",
+      "Open the club safe with the code 2008.",
+      "Fight your way out, since security reacts once the safe is open.",
+      "Escape the bikers by car, then meet Vicki and hand over the cash."
+     ],
+     "tips": [
+      "Choosing not to dance is quicker, skips the clothing stop and ends with a short drop-off scene.",
+      "Choosing to dance adds extra scenes, a rescue of Lucia and a clothes shop stop before you drive to Vicki.",
+      "Both choices give the same result and pay $10,000 the next day."
+     ]
+    },
+    {
+     "id": "thrillbillies",
+     "name": "Thrillbillies",
+     "optional": true,
+     "start": "Wyman mentions the Mud Club during Coffee Break, and the job appears on the map afterward. Either character can start it.",
+     "steps": [
+      "Go into the souvenir shop at the Mud Club entrance and buy outfits for both Lucia and Jason.",
+      "Change and step outside to meet the crew.",
+      "Rent a dirt bike at the rental stand.",
+      "Ride to the race start.",
+      "Race the 13 other riders and avoid finishing last."
+     ],
+     "tips": [
+      "The Sanchez costs more than the Manchez but is faster, so it usually pays for itself.",
+      "First place pays $2,500, and lower places pay less.",
+      "Do not ram cars on the course, as you can get thrown off the bike."
+     ]
+    },
+    {
+     "id": "twist-wrist-smash-grab",
+     "name": "Twist Wrist, Smash, Grab",
+     "optional": true,
+     "start": "Billy messages a few in-game hours after Thrillbillies. Sit on the bench at the Port Gellhorn marker.",
+     "steps": [
+      "Get on the Sanchez dirt bike Billy gives you.",
+      "Ride after Billy until the armored truck appears.",
+      "Chase the truck until it hits a tree. There is no need to shoot it.",
+      "Plant the bomb on the rear door and set it off with D-pad right.",
+      "Knock out or ignore the guard, then grab the bag behind the truck.",
+      "Follow Billy up the mountain to finish."
+     ],
+     "tips": [
+      "Staying on the bike is the main challenge, so ride carefully.",
+      "Keep the Sanchez by registering it with Moses or parking it in a garage."
+     ]
+    },
+    {
+     "id": "checking-out",
+     "name": "Checking Out",
+     "start": "Your partner calls once Coffee Break is done and you have $15,000. Go to your motel room and use the bathroom door.",
+     "steps": [
+      "Take the shotgun from the bed, deal with the attackers, then head to the motel cafeteria.",
+      "As Lucia, keep shooting the enemies.",
+      "Follow Jason to the road, shoot the biker coming at Lucia and take his bike.",
+      "Chase Jason's car. When the prompt shows, ride close and hold Square/X to jump across.",
+      "While Jason drives, shoot the tires of the police cars as Lucia."
+     ],
+     "tips": [
+      "Stay close to Jason, the pink dot on the minimap, and avoid crashing the bike.",
+      "Dying during the bike chase can glitch the mission and leave you wanted. Restart the mission if that happens."
+     ],
+     "missable": [
+      "This is a point of no return. It ends Chapter 2 and you lose the Starlet Motel as your home for good."
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "id": "ch3",
+   "title": "Chapter 3",
+   "missions": [
+    {
+     "id": "welcome-to-vice-city",
+     "name": "Welcome to Vice City",
+     "start": "Begins on its own right after Checking Out, while you drive into Vice City.",
+     "steps": [
+      "Drive to the Jack of Hearts club when Dre'Quan calls.",
+      "Talk to the doorman, then walk around to the side entrance to meet Dre'Quan.",
+      "Follow him inside; take his cash and tip the dancers if you like.",
+      "Go back to Dre'Quan at the stairs and head up to meet Boobie.",
+      "Drive to the nearby Bayside apartment and park in the covered bay.",
+      "Walk round to the front, climb to the second floor and enter the first door."
+     ],
+     "tips": [
+      "The covered parking bay is where your owned cars wait for the rest of this chapter.",
+      "Afterwards Moses texts you: Pay 'n' Spray can now buy and register cars with Standard Trackers."
+     ]
+    },
+    {
+     "id": "dealer-s-choice",
+     "name": "Dealer's Choice",
+     "start": "Jack of Hearts, Crosstown (Jason). Go upstairs to the studio booth.",
+     "steps": [
+      "Wait for Dre'Quan to finish recording, then go up to see Boobie.",
+      "Ride with Dre'Quan to the pick-up flat and meet Tyrone on the second floor.",
+      "Pick the Cut or Pure product, then walk back through the park.",
+      "Drive to the deal spot just south of the club and hand over the bag.",
+      "Collect the bag with the money once the buyer is done testing.",
+      "Knock out the man who confronts you on the way back.",
+      "Drive Dre'Quan towards the Southside shop until the cutscene plays."
+     ],
+     "tips": [
+      "Cut or Pure changes only the buyer's reaction; nothing carries over later.",
+      "Settling the deal without violence earns a Professional bonus.",
+      "The park section teaches you how to throw a football."
+     ]
+    },
+    {
+     "id": "meet-the-heders",
+     "name": "Meet the Heders",
+     "start": "Bayside apartment. After Cal's visit and a day or two, Brian calls. Use the clothes bag in the bedroom.",
+     "steps": [
+      "Drive to the rooftop restaurant on the city's east side and meet Brian and Lori.",
+      "Pass Lucia a drink, then order Surf and Turf at the table.",
+      "Switch to Lucia when prompted and drive across the bridge to the white van.",
+      "Open the van's rear doors to put on the disguise, then drive into the dockyard.",
+      "Climb to the yellow SCOOP container on top of the middle stack and cut it open.",
+      "Chase the truck on a bike, jump onto its trailer and break the car out.",
+      "Lose the police, then deliver the car to the lockup in the city's northwest."
+     ],
+     "tips": [
+      "Ordering Surf and Turf, as Lucia asks, gives a relationship boost.",
+      "Keep the cutting gauge lined up to open locks faster.",
+      "You keep the Cut-off Tool, which opens orange SCOOP containers across the map."
+     ],
+     "missable": [
+      "The first container you can cut holds a cigar and about $600 in cash."
+     ]
+    },
+    {
+     "id": "dubious-provenance",
+     "name": "Dubious Provenance",
+     "start": "Part 1: use the bag in the Bayside apartment closet. Parts 2 and 3 take place in Capri.",
+     "steps": [
+      "Drive or take a RideMe west to the antique shop in Capri and try the front door.",
+      "Choose whether to let Halifax appraise the statue; agreeing gets you his watch.",
+      "Part 2: go back to the shop, climb the rear roof and slip in the upstairs window.",
+      "Open the door for Jason, then search the desk drawer in the north corner.",
+      "Search the motel next door; a resident points you to an upstairs room.",
+      "Part 3: see Evelyn, go to the address she gives, then chase Halifax by seashark, boat, bike and car.",
+      "As Lucia, shoot his leg using Focus, walk up to him and phone Jason."
+     ],
+     "tips": [
+      "The watch can be worn from the wardrobe under Accessories, Watches.",
+      "You choose to trust Halifax in Part 2; trusting him is what opens Part 3.",
+      "At the end, loot the storage unit for about $2,500 and take the '32 Hustler car."
+     ],
+     "missable": [
+      "If you refuse Halifax and never call him back, Parts 2 and 3 are lost when Chapter 3 ends.",
+      "Only Part 1 is needed for the story; the rest is optional cash."
+     ]
+    },
+    {
+     "id": "mami-knows-best",
+     "name": "Mami Knows Best",
+     "start": "Peacock Bay (Lucia). Meet Mia.",
+     "steps": [
+      "Drive Mia to the house in Hamlet and explore the rooms.",
+      "Help Mia up, then carry junk from the lawn to the blue dumpster.",
+      "Follow Mia to the backyard and help pull the mattress out of the pool.",
+      "Shoot the gator that grabs Mia.",
+      "Use the excavator across the road to wreck the neighbours' house and cars.",
+      "Get back in Mia's car and drive to her office in town."
+     ],
+     "tips": [
+      "Close the excavator claw to pick up cars and smash them around."
+     ]
+    },
+    {
+     "id": "south-leonida-real-estate",
+     "name": "South Leonida Real Estate",
+     "start": "Mia's office in Hamlet (Lucia). Read the note on the door. Mia's call can take several in-game days.",
+     "steps": [
+      "Drive to the house, look inside, then step back out.",
+      "Take Mia's car and tail the vehicle that leaves, keeping a safe distance.",
+      "Search the building on the south side of the blocked alley on foot.",
+      "Drive the group to each property Mia picks, then follow her through the last house.",
+      "Fight off the gang in the backyard and at the front, then go back inside quickly."
+     ],
+     "tips": [
+      "While tailing, keep the marker above the car white; it turns yellow as they spot you.",
+      "You only have a pistol here, so pick up guns from fallen enemies."
+     ],
+     "missable": [
+      "Mia's $2,000 payment arrives many in-game days later, so do not wait for it."
+     ]
+    },
+    {
+     "id": "tyrone",
+     "name": "Tyrone",
+     "start": "Short story meeting with Tyrone as Jason in La Perle.",
+     "steps": [
+      "Play as Jason and meet Tyrone at his apartment block in La Perle.",
+      "This sets up the Kitty Litter storyline that continues in Here, Kitty Kitty."
+     ]
+    },
+    {
+     "id": "here-kitty-kitty",
+     "name": "Here, Kitty Kitty",
+     "start": "Tyrone's apartment block in La Perle (Jason).",
+     "steps": [
+      "Drive to Charles' apartment in Rockridge.",
+      "Pay the man at the door $20 for a tip, or break in and read the thrift store receipt.",
+      "Go to the homeless camp on the north-west edge of La Perle and force the ground-floor door.",
+      "Chase Charles up the stairs to the top floor and walk over to him.",
+      "Head back to ground level and search Charles to get the Kitty Litter."
+     ],
+     "tips": [
+      "Punch out any squatters who attack; there is no need to shoot them.",
+      "Tyrone then becomes a Goods drop-off."
+     ]
+    },
+    {
+     "id": "kitty-litter-labs",
+     "name": "Kitty Litter Labs",
+     "optional": true,
+     "start": "Unlocked after Here, Kitty Kitty. Tyrone and Dook share lab locations.",
+     "steps": [
+      "Destroy the first story lab: a trailer in the southern centre block giving off pink smoke.",
+      "Find each lab inside its purple search zone by the pink smoke.",
+      "Shoot the gas or propane tanks, or throw a molotov into the main room.",
+      "Ask Tyrone or Dook for more spots, or simply visit all 14 yourself.",
+      "Destroy enough labs to unlock the mission Spin on This."
+     ],
+     "tips": [
+      "Each lab pays $2,000 or $2,500 through BuckMe.",
+      "One Balsero lab opens with the keypad code 1999, shown on a nearby billboard.",
+      "Workers often open fire at once; one you hold up may reveal another lab."
+     ],
+     "missable": [
+      "Not missable: labs can still be destroyed in free roam after the story.",
+      "All 14 are needed for Tyrone's chain and the Spin on This trophy."
+     ]
+    },
+    {
+     "id": "car-service",
+     "name": "Car Service",
+     "start": "Raul texts from a blocked number about a day after Meet the Heders. Go to the marker in Salton (Lucia).",
+     "steps": [
+      "Take the flash grenades and silenced pistol from the nearby car's trunk if you like.",
+      "Climb the white van on the north side to get onto the chop shop roof.",
+      "Get past the guards and find the Schafter V12 in the middle of the covered area.",
+      "Drive away before police arrive, losing them if spotted.",
+      "Take the car to Leonida Auto World in the far north-west."
+     ],
+     "tips": [
+      "The silenced pistol helps you stay hidden longer.",
+      "Do not shoot the guard dog unless it attacks, or your criminal rating suffers.",
+      "Afterwards Randy buys cars with Standard Trackers and items from his request list."
+     ]
+    },
+    {
+     "id": "top-billing",
+     "name": "Top Billing",
+     "start": "Dre'Quan invites you to the Jack of Hearts after Car Service.",
+     "steps": [
+      "Go backstage via the hallway to the right of the usual stairs.",
+      "As Lucia, ask the host at the front, then find the Dimez in the parking lot.",
+      "Follow Roxy by car, then stop at Peewees and order food for the group.",
+      "Drive Bae-Luxe's car to the house party south near VCIA and go in the back door.",
+      "Let the dog out of the kitchen door to draw Jacki away, then go to Roxy.",
+      "Knock Kamal out; as Jason, switch off the power at the green box outside."
+     ]
+    },
+    {
+     "id": "boobie-time",
+     "name": "Boobie Time",
+     "start": "Jack of Hearts, Crosstown (Jason only).",
+     "steps": [
+      "Drive Boobie to both pick-ups to the south; honk the horn at the second.",
+      "Drive to the club in the city centre by the river.",
+      "Chase the thieves down the river on a seashark and take them out.",
+      "Ride over the cash bag to grab it, then return to Boobie.",
+      "Drive across the river to the smoke shop and go in with Boobie."
+     ],
+     "tips": [
+      "The thieves end up circling in a dead end, which makes them easier to hit.",
+      "Yasmani becomes a Goods drop-off and pays the most for jewelry and marked bills."
+     ]
+    },
+    {
+     "id": "first-impressions",
+     "name": "First Impressions",
+     "start": "Waxman Island after Car Service. Go there with both Jason and Lucia.",
+     "steps": [
+      "Enter 2404 on the wall panel to open the garage, then take the car as Lucia.",
+      "Drive to the meeting point on the south side of Ocean Beach.",
+      "As Jason, hold off the police while Lucia drives.",
+      "After the crash, keep officers away from the car, then reverse out as Lucia.",
+      "Head for Rialto Islands, jump the opening bridge and park in the marked lot.",
+      "Swap into the van and drop Raul off in Bayside."
+     ],
+     "tips": [
+      "Shoot tires and engines, and aim at legs, to keep a Professional or Hardened rating.",
+      "Watch Jason's health and heal from the inventory when needed."
+     ]
+    },
+    {
+     "id": "caught-slipping",
+     "name": "Caught Slipping",
+     "start": "Starts by itself when you enter the Bayside apartment after Boobie Time and First Impressions.",
+     "steps": [
+      "As Jason, chase the first thief through the building site and shoot their legs.",
+      "Check the bag they drop.",
+      "As Lucia, stop the second thief the same way and check that bag.",
+      "Drive together to Big House Storage to the south.",
+      "Follow Jason up the lift to the storage unit."
+     ],
+     "tips": [
+      "Use Focus to aim quickly at the thieves' legs."
+     ]
+    },
+    {
+     "id": "crosstown-traffic",
+     "name": "Crosstown Traffic",
+     "start": "Lucia: Courtyard Bar in Stockyard. Jason: La Perle boatyard. Either one starts it.",
+     "steps": [
+      "As Jason, follow the boats on a bike along the riverside dirt tracks.",
+      "As Lucia, run under the rail line to the next station and board the rear carriage.",
+      "Intimidate the gang member and make him place the call.",
+      "As Jason, drop the two dock gunmen, chase by bike and jump onto a boat.",
+      "Clear the nearer boat, then leap onto the target boat.",
+      "As Lucia, beat the attackers on the train and press the emergency stop.",
+      "Defend the boat from gang boats, seasharks and the Coast Guard."
+     ],
+     "tips": [
+      "The boat's rear seats hold assault rifles and body armor; ammo is unlimited here.",
+      "Shoot drivers to wreck chasers; hitting the helicopter pilot downs it at once."
+     ]
+    },
+    {
+     "id": "credit-check",
+     "name": "Credit Check",
+     "start": "Raul calls after Crosstown Traffic. Go with both characters to the intercom near Vice Vinyl.",
+     "steps": [
+      "Meet the crew upstairs, choose your masks and talk to Karim.",
+      "Take the Dye Pack Jammer and grab Stick Bombs if needed.",
+      "Rob Fleeca Washington Beach: wear masks, threaten guards, empty four marked drawers.",
+      "At the second bank, leave your partner in the car and go in alone.",
+      "Blow the back door, then open the safe with the teller's code or an explosive.",
+      "At the last bank, empty all four drawers and fight off security.",
+      "Split up to lose the police, then return to the apartment and answer the door."
+     ],
+     "tips": [
+      "Threaten guards first; shoot hands or knees if they draw, to stay Professional.",
+      "Avoid the police search zone left around the first bank.",
+      "You loot faster carrying one bag, so swap characters when one bag is full."
+     ]
+    },
+    {
+     "id": "clonin-keys-makin-gs",
+     "name": "Clonin' Keys, Makin' GS",
+     "start": "Randy calls after Crosstown Traffic. Go to Hathaway Apartments in Ocean Beach.",
+     "steps": [
+      "Climb the wall into the parking garage.",
+      "Install the key cloner from your phone; it covers both characters.",
+      "Find the Zorrusso on the ground level, east side, and clone its key.",
+      "Drive fast to Randy's showroom so the tracker never fills.",
+      "Pull into the garage door, then follow Randy to his Wish List board."
+     ],
+     "tips": [
+      "If the tracker bar fills, your location goes to the police; it shuts off near the showroom.",
+      "Delivering the car undamaged adds a $10,000 bonus."
+     ],
+     "missable": [
+      "Randy's Wish List is optional, but every car is needed for the Supply & Demand trophy."
+     ]
+    },
+    {
+     "id": "sinfrontera-national-bank",
+     "name": "Sinfrontera National Bank",
+     "start": "Raul calls after Credit Check. Go to the bank in Tequesta.",
+     "steps": [
+      "Walk up the main steps and enter the bank.",
+      "As Lucia, follow Jason to a table and lean on it.",
+      "Use Focus to inspect the cameras, the man in the pink suit, the lift guards and the security panel.",
+      "Go upstairs to Raul and Andrea and sit down."
+     ]
+    },
+    {
+     "id": "security-expert",
+     "name": "Security Expert",
+     "start": "Follows Sinfrontera National Bank at once. You are moved to Waning Sands.",
+     "steps": [
+      "Drive slowly past the marked house, then park nearby.",
+      "Stick behind Jason and wait for the guard to walk out the back door.",
+      "Slip inside and enter the closed bedroom in the north-east corner.",
+      "Carry Nicole out the back and along the side of the house.",
+      "Put her in the trunk, get clear and drive to the Stockyard planning room."
+     ],
+     "tips": [
+      "Staying right behind Jason keeps you hidden from the guards."
+     ]
+    },
+    {
+     "id": "ride-or-die",
+     "name": "Ride or Die",
+     "start": "Dre'Quan texts about a day after Credit Check. Go to the Jack of Hearts as Jason.",
+     "steps": [
+      "Sit on the ledge outside, then go with Dre'Quan to the Eris store Downtown.",
+      "Get DWNPLY sneakers from the man with the bag upstairs.",
+      "Show the shoes to the VIP bouncer and give them to DWNPLY.",
+      "Lift his keys while he signs, then run down to the parking lot.",
+      "Sound the horn to find his car in a VIP bay on the east side.",
+      "Shake off the man on the hood, lose the gang and drive to Stockyard Speedshop."
+     ],
+     "tips": [
+      "Skip the $1,580 price: throw a basketball from the outdoor rack at the seller to make him drop the shoes."
+     ]
+    },
+    {
+     "id": "company-property",
+     "name": "Company Property",
+     "start": "Skeeter's bar in south Hamlet, after Security Expert.",
+     "steps": [
+      "Ride with Brian to the airfield south of Hamlet.",
+      "Load weapon crates from Pete into the truck bed.",
+      "As Jason, follow Pete and fight agents through the hangars, roofs and runway.",
+      "Take off in Pete's plane straight down the runway.",
+      "As Lucia, use the LMG to stop cars ramming Brian's truck.",
+      "As Jason, crash-land in the colorful field right of the river."
+     ],
+     "tips": [
+      "Grab the rifle and healing items in the first hangar.",
+      "Reload only when no car is right behind the truck."
+     ],
+     "missable": [
+      "Each crate you lose means fewer explosives, and less heist time, in Hidden Charges."
+     ]
+    },
+    {
+     "id": "the-missing-link",
+     "name": "The Missing Link",
+     "start": "Sloppy Molly's in Watson Bay, Lucia alone, after Company Property.",
+     "steps": [
+      "Follow Andrea to the warehouse and check in at the north door when she texts.",
+      "Follow her to Monty and take the photos he asks for.",
+      "Beat Monty in the fist fight.",
+      "Shoot your way out and jump into the car after Andrea.",
+      "Drive to Vice City; as Jason, take Monty to the backyard.",
+      "Work the loader to raise and lower him as Raul asks."
+     ],
+     "tips": [
+      "Never drop Monty fully into the water; finishing every question earns a Professional bonus.",
+      "Enemies also arrive by car through the garage in the chicken room."
+     ],
+     "missable": [
+      "Monty's 1992 Pistol: after the first enemy, go back to the photo room and pick it up."
+     ]
+    },
+    {
+     "id": "safe-word",
+     "name": "Safe Word",
+     "start": "Speak to Nicole at Raul's base in Stockyard after Company Property.",
+     "steps": [
+      "Drive the big truck to Gil's mansion in Peacock Estates.",
+      "As Jason, sneak round the right side, blend in and follow the assistant.",
+      "Play along with the shoot, then knock Rodney out when told.",
+      "Enter the office and find the safe remote in the desk's left drawer.",
+      "Open the window and hook the winch to the safe.",
+      "Swing the safe into chasing cars and drive it to Felipe's garage."
+     ],
+     "tips": [
+      "Turn down the offer to take part if you want to keep Lucia happy.",
+      "Do not hit cyclists or gravestones with the safe, or you get a Psycho rating.",
+      "Practice the safe at the end: it works like the vault in the chapter finale."
+     ],
+     "missable": [
+      "Passing the practice gives Gil's Kalinga .50 Pistol and $1,500."
+     ]
+    },
+    {
+     "id": "cooties",
+     "name": "Cooties",
+     "start": "Dre'Quan texts a few days after Ride or Die. Go to the Crosstown marker.",
+     "steps": [
+      "As Lucia, keep the car moving and steer around the filming circle.",
+      "Pull the man off Roxy and beat the second attacker.",
+      "Smash the car with the bat, then shake and spray the paint can.",
+      "Escape DWNPLY's crew until you leave the red zone.",
+      "Drive the car to the studio."
+     ]
+    },
+    {
+     "id": "bricked-up",
+     "name": "Bricked Up",
+     "start": "Boobie calls you to the Bayside apartment after Hidden Charges and all other Chapter 3 story missions.",
+     "steps": [
+      "Drive to Venture Apartments in Rockridge and park outside the red zone.",
+      "Ask for Raymond at the lobby lift, then knock on the red door upstairs.",
+      "Fight down through the floors, grabbing dropped police guns.",
+      "Follow Raymond's directions, then help Lucia out of the window.",
+      "As Lucia, fetch a car from the south lot and pick Jason up.",
+      "Lose the police and helicopter, then meet Boobie at the Jack of Hearts."
+     ],
+     "tips": [
+      "Parking out front gets your car impounded.",
+      "Police rifles have lights, which help on the dark third floor."
+     ],
+     "missable": [
+      "Take the red bag before leaving the first room for $3,500 and a Professional bonus."
+     ]
+    },
+    {
+     "id": "hidden-charges",
+     "name": "Hidden Charges",
+     "start": "Planning room in Stockyard. Karim calls after Company Property, Cooties and most other main missions.",
+     "steps": [
+      "Take the van and park it in the marked garage downtown.",
+      "East tower: lift in the west building, cross the helipad walkway, plant the charge.",
+      "South tower: switch characters, take the lift by the pool and climb the ladder.",
+      "West tower: rush through the north building site to the lift and the far-side ladder.",
+      "Parachute off and leave the police search area."
+     ],
+     "tips": [
+      "Working as a pair is quicker and builds your relationship.",
+      "There is a parachute box on the last roof if you have none."
+     ],
+     "missable": [
+      "Up to three charges, set by crates kept in Company Property; each tower adds heist time."
+     ]
+    },
+    {
+     "id": "the-cartel-heist",
+     "name": "The Cartel Heist",
+     "start": "Raul calls after Hidden Charges and every other Chapter 3 mission. Go to the planning room.",
+     "steps": [
+      "Drive to the cell towers, park and set off the charges.",
+      "Enter the bank, wait for Karim, then knock out a guard and herd everyone to the middle.",
+      "As Lucia, force Lex into the security room and make him open the truck door.",
+      "As Jason, clear security, then take the roof and the backup terminal.",
+      "Crack the vault as Lucia and bag the stacked bills first.",
+      "Hold off the police and SWAT, then escort Nicole down to the delivery bay.",
+      "Steal the SWAT truck, defend and catch the bus, then flee down the freeway."
+     ],
+     "tips": [
+      "With all three towers down you get just under 11 minutes.",
+      "Vault cracking matches the Safe Word practice, but now both drill gauges move.",
+      "The bus grenade launcher has unlimited ammo; use it on the helicopter."
+     ],
+     "missable": [
+      "Shoot guns out of hands instead of killing to keep a Professional rating."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ch4",
+   "title": "Chapter 4: Vice City, Baby",
+   "missions": [
+    {
+     "id": "ocean-beach",
+     "name": "Ocean Beach",
+     "start": "Opens Chapter 4 automatically; played with Jason and Lucia",
+     "steps": [
+      "Settle Jason and Lucia into their new base in Ocean Beach."
+     ]
+    },
+    {
+     "id": "another-life",
+     "name": "Another Life",
+     "start": "Lucia mission, follows Ocean Beach",
+     "steps": [
+      "Play through Lucia's memories of her past."
+     ]
+    },
+    {
+     "id": "company-cars",
+     "name": "Company Cars",
+     "start": "Map objective: Speak to the Concierge",
+     "steps": [
+      "Talk to the concierge.",
+      "Collect the new vehicles set aside for Jason and Lucia."
+     ]
+    },
+    {
+     "id": "lawyer-up",
+     "name": "Lawyer Up",
+     "start": "Map objective: Meet Abe Gonzalez",
+     "steps": [
+      "Go meet the lawyer Abe Gonzalez with Jason and Lucia."
+     ],
+     "tips": [
+      "Afterwards a Pay Abe's Fee objective appears in the chapter list."
+     ]
+    },
+    {
+     "id": "party-hard",
+     "name": "Party Hard",
+     "start": "Map objective: Work Personal Security",
+     "steps": [
+      "Act as personal security for a celebrity alongside your partner."
+     ]
+    },
+    {
+     "id": "heavy-lifting",
+     "name": "Heavy Lifting",
+     "start": "Jason and Lucia mission in Chapter 4",
+     "steps": [
+      "Make a delivery as Jason and Lucia."
+     ]
+    },
+    {
+     "id": "photo-shoot",
+     "name": "Photo/Shoot",
+     "start": "Map objective: Shoot a Promo (listed as Photo/Shoot)",
+     "steps": [
+      "Join Dre'Quan and help shoot a promotional photo session."
+     ],
+     "missable": [
+      "Optional side jobs Bad Driver! (Find Felipe) and Eddie Acosta's party show up around this point."
+     ]
+    },
+    {
+     "id": "making-gainz",
+     "name": "Making Gainz",
+     "start": "Lucia only. Map objective: Meet Raul / Raul's Plan",
+     "steps": [
+      "Meet Raul to hear his plan.",
+      "Get to know a new contact as Lucia."
+     ],
+     "tips": [
+      "This is the first VCIA Takedown setup job; Blood Sweat and Gear (a workout) follows."
+     ]
+    },
+    {
+     "id": "watch-it",
+     "name": "Watch It",
+     "start": "Jason only. Map objective: Meet Dre'Quan",
+     "steps": [
+      "Meet Dre'Quan.",
+      "Go with him to see a nightclub owner."
+     ]
+    },
+    {
+     "id": "cash-injections",
+     "name": "Cash Injections",
+     "start": "Lucia only. Map objective: Hang Out With Nate (after Call Nate)",
+     "steps": [
+      "Spend time with Nate.",
+      "Help out one of his associates."
+     ],
+     "tips": [
+      "Counts as VCIA Takedown setup."
+     ]
+    },
+    {
+     "id": "amateur-hour",
+     "name": "Amateur Hour",
+     "start": "Lucia only. Map objective: Workout",
+     "steps": [
+      "Back Cisco up as he confronts a film director."
+     ],
+     "tips": [
+      "Counts as VCIA Takedown setup."
+     ]
+    },
+    {
+     "id": "dirty-work",
+     "name": "Dirty Work",
+     "start": "Map objective: Deal with Raina",
+     "steps": [
+      "Handle the situation with Raina.",
+      "Open up new contacts for the heist plan."
+     ],
+     "tips": [
+      "Counts as VCIA Takedown setup; Nate Will Be in Touch (help Kordell's crew) comes next."
+     ]
+    },
+    {
+     "id": "too-much-baggage",
+     "name": "Too Much Baggage",
+     "start": "Jason only. Map objective: Scope Out the Airport",
+     "steps": [
+      "Head to the airport as Jason.",
+      "Work a baggage handling shift while scouting the place."
+     ],
+     "tips": [
+      "Counts as VCIA Takedown setup."
+     ]
+    },
+    {
+     "id": "adventures-in-babysitting",
+     "name": "Adventures in Babysitting",
+     "start": "Jason only. Map objective: Work Security for Andres",
+     "steps": [
+      "Work nightclub security for Andres as Jason."
+     ]
+    },
+    {
+     "id": "fresh-evidence",
+     "name": "Fresh Evidence",
+     "start": "Jason only. Map objective: Meet Dre'Quan",
+     "steps": [
+      "Meet Dre'Quan.",
+      "Help him steal some blackmail material."
+     ]
+    },
+    {
+     "id": "power-play",
+     "name": "Power Play",
+     "start": "Lucia only. Map objective: Help Kordell's Crew",
+     "steps": [
+      "Help Kordell's crew.",
+      "Collect intel for the heist."
+     ],
+     "tips": [
+      "Counts as VCIA Takedown setup."
+     ]
+    },
+    {
+     "id": "child-s-play",
+     "name": "Child's Play",
+     "start": "Map objective: Rescue Rafa from Kidnappers",
+     "steps": [
+      "Team up as Jason and Lucia to help get Rafa back."
+     ],
+     "tips": [
+      "Finishing it unlocks the story trophy Family Matters."
+     ],
+     "missable": [
+      "Right after this, This Is a Free Call From... (pick up Shayna, Lucia only) appears. It is time-limited and can be missed."
+     ]
+    },
+    {
+     "id": "headliners",
+     "name": "Headliners",
+     "start": "Map objective: Help With The Launch Party",
+     "steps": [
+      "Help run the launch party at VYB.",
+      "Support the Real Dimez during their show."
+     ],
+     "tips": [
+      "Finishing it unlocks the story trophy DWNFALL."
+     ]
+    },
+    {
+     "id": "close-surveillance",
+     "name": "Close Surveillance",
+     "start": "Jason only. Map objective: Spy on the Bodybuilders",
+     "steps": [
+      "Fly a spy drone as Jason to watch a group of bodybuilders."
+     ],
+     "tips": [
+      "Counts as VCIA Takedown setup."
+     ]
+    },
+    {
+     "id": "delivery-method",
+     "name": "Delivery Method",
+     "start": "Jason only. Map objective: Help Andrea",
+     "steps": [
+      "Go undercover as Jason to help Andrea."
+     ],
+     "tips": [
+      "Counts as VCIA Takedown setup."
+     ]
+    },
+    {
+     "id": "team-building",
+     "name": "Team Building",
+     "start": "Lucia only. Map objective: Meet Kordell",
+     "steps": [
+      "Meet Kordell as Lucia.",
+      "Prove yourself to his crew."
+     ],
+     "tips": [
+      "Counts as VCIA Takedown setup."
+     ]
+    },
+    {
+     "id": "fully-catered",
+     "name": "Fully Catered",
+     "start": "Map objective: Steal a Catering Truck",
+     "steps": [
+      "Steal the catering truck the airport job needs."
+     ],
+     "tips": [
+      "Heist Plans in Place follows, then the heist itself."
+     ]
+    },
+    {
+     "id": "vcia-takedown",
+     "name": "VCIA Takedown",
+     "start": "Starts once Heist Plans in Place is done",
+     "steps": [
+      "Carry out the airport heist with the crew and gear from the setup jobs."
+     ],
+     "tips": [
+      "Clear every available setup job before starting it.",
+      "Finishing it unlocks the story trophy Hi-Jacked."
+     ],
+     "missable": [
+      "Afterwards the optional That's Where The Money Is... (wait at the cafe) unlocks bigger bank vault jobs; do it for 100%."
+     ]
+    },
+    {
+     "id": "sunset",
+     "name": "Sunset",
+     "start": "Map objective: Stop by the Front Desk (after Call Valentina Back)",
+     "steps": [
+      "Stop at the front desk.",
+      "Look for answers with Jason and Lucia."
+     ],
+     "tips": [
+      "Starting From Zero follows and closes out Chapter 4."
+     ]
+    }
+   ]
+  },
+  {
+   "id": "ch5",
+   "title": "Chapter 5: Top of the World, Ma",
+   "missions": [
+    {
+     "id": "bird-in-the-hand",
+     "name": "Bird in the Hand",
+     "start": "Opens Chapter 5",
+     "steps": [
+      "Steal a new vehicle with Jason and Lucia for the next job."
+     ],
+     "tips": [
+      "Make a separate manual save during this chapter if you want a point to return to later."
+     ]
+    },
+    {
+     "id": "taking-liberties",
+     "name": "Taking Liberties",
+     "start": "Follows Bird in the Hand",
+     "steps": [
+      "Put the pair's new plan together."
+     ]
+    },
+    {
+     "id": "vc-baby",
+     "name": "VC Baby",
+     "start": "Map objective: Talk to Mattia",
+     "steps": [
+      "Answer Mattia's request.",
+      "Help him out."
+     ]
+    },
+    {
+     "id": "doggie-bag",
+     "name": "Doggie Bag",
+     "start": "Map objective: Meet Vinny",
+     "steps": [
+      "Meet Vinny.",
+      "Follow the markers to track down the contraband."
+     ]
+    },
+    {
+     "id": "operation-savage-glory",
+     "name": "Operation Savage Glory",
+     "start": "Follows VC Baby and Doggie Bag",
+     "steps": [
+      "Recover a valuable shipment."
+     ],
+     "tips": [
+      "Finishing it unlocks the story trophy Snow Storm."
+     ]
+    },
+    {
+     "id": "protective-custody",
+     "name": "Protective Custody",
+     "start": "Map objective: Meet with Abe (after Honest Abe, Unfinished Business and Pay Abe's Fee)",
+     "steps": [
+      "Meet Abe with Jason and Lucia.",
+      "Work together through the assignments that follow."
+     ],
+     "tips": [
+      "Keep a manual save before the final mission."
+     ]
+    }
+   ]
+  }
+ ],
+ "credit": "Walkthroughs are our own short summaries, written from facts in published guides (PowerPyx, Keengamer, GamesRadar). Chapters 4 and 5 get full steps as guides come out."
 }
