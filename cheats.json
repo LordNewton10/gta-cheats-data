@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "updated": "2026-11-15",
+  "updated": "2026-11-19",
   "platforms": {
     "ps": "PlayStation",
     "xbox": "Xbox",
@@ -19,9 +19,171 @@
       "title": "Grand Theft Auto VI",
       "short": "GTA 6",
       "year": 2026,
-      "status": "coming_soon",
-      "note": "No GTA 6 cheats are known yet. Verified codes will appear here as soon as they are found.",
-      "cheats": []
+      "note": "Cheats unlock only after you finish the story, and most also need their own challenge (see Cheats in the Progress menu). Press Up to open the phone, hold L1 and press R1 (Xbox: LB and RB), then enter the D-pad code. After using a cheat you can't save, and trophies and achievements are off. 61 cheats exist; more codes are added as they are found.",
+      "cheats": [
+        {
+          "name": "$250,000",
+          "category": "Player",
+          "codes": {
+            "ps": "Up, Right, Down, Left, Up, Left, Down, Right",
+            "xbox": "Up, Right, Down, Left, Up, Left, Down, Right"
+          },
+          "note": "Unlock: finish the story."
+        },
+        {
+          "name": "Unlimited Focus",
+          "category": "Player",
+          "codes": {
+            "ps": "Down, Up, Up, Down, Up, Down, Up, Down, Up, Right",
+            "xbox": "Down, Up, Up, Down, Up, Down, Up, Down, Up, Right"
+          },
+          "note": "Unlock: finish the story."
+        },
+        {
+          "name": "Body armor",
+          "category": "Player",
+          "codes": {
+            "ps": "Down, Up, Left, Up, Up, Up, Up, Up, Down, Down",
+            "xbox": "Down, Up, Left, Up, Up, Up, Up, Up, Down, Down"
+          },
+          "note": "Unlock: complete 100 workouts."
+        },
+        {
+          "name": "Raise Heat level",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "Left, Down, Right, Down, Up, Down, Up",
+            "xbox": "Left, Down, Right, Down, Up, Down, Up"
+          },
+          "note": "Unlock: lose a 3-star Wanted level 25 times."
+        },
+        {
+          "name": "Raise Wanted level",
+          "category": "Wanted level",
+          "codes": {
+            "ps": "Left, Down, Right, Down, Up, Right, Up",
+            "xbox": "Left, Down, Right, Down, Up, Right, Up"
+          },
+          "note": "Unlock: lose a 3-star Wanted level 50 times."
+        },
+        {
+          "name": "Max ammo",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Down, Up, Right, Down, Left, Left, Up, Up, Down, Left",
+            "xbox": "Down, Up, Right, Down, Left, Left, Up, Up, Down, Left"
+          },
+          "note": "Unlock: 25 bronze medals or better at shooting ranges."
+        },
+        {
+          "name": "Infinite ammo",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Down, Up, Right, Down, Left, Left, Up, Down, Down, Down",
+            "xbox": "Down, Up, Right, Down, Left, Left, Up, Down, Down, Down"
+          },
+          "note": "Unlock: 25 silver medals or better at shooting ranges."
+        },
+        {
+          "name": "No reload",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Down, Up, Right, Down, Left, Left, Up, Down, Down, Up",
+            "xbox": "Down, Up, Right, Down, Left, Left, Up, Down, Down, Up"
+          },
+          "note": "Unlock: 25 gold medals at shooting ranges."
+        },
+        {
+          "name": "Attack Force",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Down, Up, Left, Left, Right, Down, Down, Up, Down",
+            "xbox": "Down, Up, Left, Left, Right, Down, Down, Up, Down"
+          },
+          "note": "Hits launch targets. Unlock: finish the story."
+        },
+        {
+          "name": "Exploding balls",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Down, Up, Left, Left, Right, Down, Down, Up, Right",
+            "xbox": "Down, Up, Left, Left, Right, Down, Down, Up, Right"
+          },
+          "note": "Sports balls explode. Unlock: hit 20 enemies with explosives."
+        },
+        {
+          "name": "Vehicle Force",
+          "category": "Weapons",
+          "codes": {
+            "ps": "Down, Up, Left, Left, Right, Down, Left, Up, Down",
+            "xbox": "Down, Up, Left, Left, Right, Down, Left, Up, Down"
+          },
+          "note": "Crashes launch targets. Unlock: kill 25 enemies with a vehicle."
+        },
+        {
+          "name": "Spawn Maibatsu Boomazoom",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Left, Up, Right, Down, Left, Left, Up, Left",
+            "xbox": "Left, Up, Right, Down, Left, Left, Up, Left"
+          },
+          "note": "Unlock: complete 5 shopping challenges."
+        },
+        {
+          "name": "Spawn MTL Pumper",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Left, Up, Right, Down, Left, Right, Right, Up",
+            "xbox": "Left, Up, Right, Down, Left, Right, Right, Up"
+          },
+          "note": "Unlock: discover it in the Progress menu."
+        },
+        {
+          "name": "Spawn HVY Bulldozer",
+          "category": "Vehicles",
+          "codes": {
+            "ps": "Left, Up, Right, Down, Left, Right, Right, Down",
+            "xbox": "Left, Up, Right, Down, Left, Right, Right, Down"
+          },
+          "note": "Unlock: discover it in the Progress menu."
+        },
+        {
+          "name": "Cycle weather",
+          "category": "World",
+          "codes": {
+            "ps": "Down, Right, Up, Down, Right, Up, Right",
+            "xbox": "Down, Right, Up, Down, Right, Up, Right"
+          },
+          "note": "Unlock: finish the story (one guide says: reveal the whole map)."
+        },
+        {
+          "name": "Cataclysm filter",
+          "category": "Screen filters",
+          "codes": {
+            "ps": "Down, Down, Up, Right, Right, Up, Left, Left, Right, Right",
+            "xbox": "Down, Down, Up, Right, Right, Up, Left, Left, Right, Right"
+          },
+          "note": "Murky smoke. Unlock: discover Martha's Vamos in the Progress menu."
+        },
+        {
+          "name": "Dollhouse filter",
+          "category": "Screen filters",
+          "codes": {
+            "ps": "Down, Down, Up, Right, Right, Up, Left, Left, Down, Right",
+            "xbox": "Down, Down, Up, Right, Right, Up, Left, Left, Down, Right"
+          },
+          "note": "Unlock: spend 8 hours with your partner."
+        },
+        {
+          "name": "Faded Glory filter",
+          "category": "Screen filters",
+          "codes": {
+            "ps": "Down, Down, Up, Right, Right, Up, Left, Left, Left, Right",
+            "xbox": "Down, Down, Up, Right, Right, Up, Left, Left, Left, Right"
+          },
+          "note": "Colour CRT TV look. Unlock: rob 50 stores with your partner."
+        }
+      ]
     },
     {
       "id": "gta5",
@@ -3131,5 +3293,5 @@
       ]
     }
   ],
-  "sources": "Codes checked against the GTA Wiki (gta.fandom.com, CC BY-SA) on 15 Nov 2026."
+  "sources": "Codes checked against the GTA Wiki (gta.fandom.com, CC BY-SA) on 15 Nov 2026; GTA 6 codes from Red Bull and Screen Rant, 18-19 Nov 2026."
 }
